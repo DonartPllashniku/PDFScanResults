@@ -1,0 +1,1072 @@
+﻿
+======Category: Belegschafts-und Besucherhabe ==============
+
+11.12 Belegschafts- und Besucher-/ Gästehabe
+11.12.1 Versichert ist - abweichend von Abschnitt I § 2 Ziffer 2.2 und § 7 Ziffer 7.6 - die gesetzli-che Haftpflicht des Versicherungsnehmers wegen Beschädigung, Vernichtung sowie Ab-handenkommens von Sachen der Betriebsangehörigen und der Besucher / Gäste sowiealle sich daraus ergebenden Vermögensschäden.Versicherungsschutz besteht nur, sofern die Beschädigung, die Vernichtung sowie dasAbhandenkommen die ursächlich zusammenhängende Folge eines Ereignisses ist, dasmit dem versicherten Betrieb in räumlicher oder tätigkeitsbedingter Verbindung steht.
+-1:9.624307228058543e-05		0:0.0026519518361192767		1:0.9972518050916002
+
+ Most similar to: AGG-Deckung
+------------------------------------------
+
+
+ List: [0.9996672812891352, 0.9986499412735161, 0.9995394956878325, 0.9999759104120499, 0.9997840486514695, 0.9997287893261451, 0.997992238474794, 0.9999092886413585, 0.9998169027900997, 0.9996853683908528, 0.9983859702324884, 0.9994711067543592, 0.9995608358193969, 0, 0.9997268569109735, 0.9997734145845133, 0.9994657453449284, 0, 0.9990793547894338, 0.999890372086931, 0.9998642204994024, 0.9955776855498161, 0.9997239512122854, 0.9998816050243743, 0.9982589971719661, 0, 0.9997529886070674, 0.9976948815802885, 0.9934843878325276, 0.9999412850761189, 0, 0, 0, 0.9998999864610334]
+------------------------------------------
+
+======Category: Abhandenkommen fremder Schlüssel / Codekarten ==============
+
+§ 9
+Deckungssummen/SublimiteEs gelten die im Versicherungsschein genannten Deckungssummen und Höchstersatzleistungen für alleVersicherungsfälle einer Versicherungsperiode.Innerhalb der vereinbarten Deckungssummen gelten nachstehende Sublimite:----Abhandenkommen von Schlüsseln und Codekarten, für Folgeschäden (Abschnitt II § 11 Zif-fer 11.1) 300.000 Euro;Ansprüche aus Benachteiligungen (Abschnitt II § 11 Ziffer 11.4) 300.000 Euro;Bewachte Sachen (Abschnitt II § 11 Ziffer 11.14) Schäden durch Abhandenkommen be-wachter Sachen 300.000 Euro;Erstellen von Energieausweisen / Energieberatung (Abschnitt II § 11 Ziffer 11.17) 300.000Euro;Stand: 05/2017Gothaer GewerbeProtect Haftpflichtversicherung für betriebliche oder berufliche Risikenfür Handel, Gewerbe, Handwerk (ohne Bauhauptgewerbe und ohne Kfz-Handel und Werkstätten)Seite 14Page 32</a>-Mietsachschäden an Staplern und Arbeitsmaschinen (Abschnitt II § 11 Ziffer 11.27.1.4)300.000 Euro;Nachbesserungsbegleitschäden (Abschnitt II § 11 Ziffer 11.28) 300.000 Euro;Vermögensschäden (Abschnitt II § 11 Ziffer 11.36.2.2 - 11.36.2.10) 300.000 Euro;--- Wasseranalyse (Abschnitt II § 11 Ziffer 11.39.) 300.000 Euro;---Aufwendungen vor Eintritt des Versicherungsfalles (Abschnitt III § 4) 1.000.000 Euro;Aufwendungen vor Eintritt des Versicherungsfalles (Abschnitt IV § 7) 1.000.000 Euro;Sanierung von Umweltschäden (USV) auf eigenen Grundstücken, in eigenen Gewässernund am Grundwasser (Abschnitt IV § 2 Ziffern 2.2.7 und 2.2.8) 1.000.000 Euro.Die Höchstersatzleistung der vorgenannten Sublimite für alle Versicherungsfälle einer Versicherungsperi-ode beträgt das Doppelte.
+-1:4.944236388346708e-06		0:6.498161281825196e-05		1:0.9999300741507934
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9921960028692964, 0.9801021785268375, 0.9843216941855907, 0.9891580670831364, 0.9913668245171686, 0.9917846739248863, 0.9778188370254951, 0.98717597689317, 0.9904998247355318, 0.9920175498238432, 0.9954893967708526, 0.9929783583271553, 0.9842327894333701, 0, 0.9850474131669897, 0.9888114690525269, 0.9927803495959021, 0, 0.9817388547002517, 0.9881869061240897, 0.9894522648380903, 0.9984006451956842, 0.9853531745321162, 0.9902865233297445, 0.9783083231435046, 0, 0.9914904346427571, 0.9780006233354938, 0.965628371023083, 0.9877682028072668, 0, 0, 0, 0.9905681687167209]
+------------------------------------------
+11.1
+11.211.3Abhandenkommen von Schlüsseln und CodekartenVersichert ist gemäß Abschnitt I § 2 Ziffer 2.2 und abweichend von Abschnitt I § 7 Ziffer 7.6 diegesetzliche Haftpflicht des Versicherungsnehmers wegen Schäden aus dem Abhandenkommenvon fremden Schlüsseln und Codekarten und alle sich daraus ergebenden Folgeschäden.
+-1:0.04866537889262261		0:0.8335540295094742		1:0.11778059159790315
+
+ Most similar to: Mietsachschäden an betrieblich genutzten Räumen durch Brand / Explosion
+------------------------------------------
+
+
+ List: [0.9981732412493886, 0.999841354717392, 0.999938924182213, 0.9992135526991721, 0.9985687957290359, 0.9983892844736105, 0.9995382948872121, 0.9995585098168601, 0.9986655334019594, 0.9982622480900522, 0.9958749720101656, 0.997772715819039, 0.9997868546231085, 0, 0.9998702431506022, 0.9992551013824773, 0.9977385030784248, 0, 0.9997566891265346, 0.9994746547224551, 0.9991342128811892, 0.9918203905875026, 0.9997400175641765, 0.998803987414361, 0.9995980587178473, 0, 0.9984392354533504, 0.9992786390977579, 0.9967240634837252, 0.999452768553595, 0, 0, 0, 0.9988479787183464]
+------------------------------------------
+§ 2
+Vermögensschaden,Abhandenkommen vonSachen§ 3Versichertes Risiko§ 4VorsorgeversicherungStand: 05/2017Gothaer GewerbeProtect Haftpflichtversicherung für betriebliche oder berufliche Risikenfür Handel, Gewerbe, Handwerk (ohne Bauhauptgewerbe und ohne Kfz-Handel und Werkstätten)Seite 5Page 23</a>tragsrechnung erfolgen. Unterlässt der Versicherungsnehmer die rechtzeitige Anzeige,entfällt der Versicherungsschutz für das neue Risiko rückwirkend ab dessen Entstehung.Tritt der Versicherungsfall ein, bevor das neue Risiko angezeigt wurde, so hat der Versi-cherungsnehmer zu beweisen, dass das neue Risiko erst nach Abschluss der Versiche-rung und zu einem Zeitpunkt hinzugekommen ist, zu dem die Anzeigefrist noch nicht ver-strichen war.
+-1:0.024671401128559912		0:0.5883899149415062		1:0.38693868392993397
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9887723060314103, 0.9748348990902673, 0.9796041686918683, 0.9851877208869544, 0.9877873266251407, 0.9882910351275721, 0.9722780812142097, 0.9828996173309025, 0.9867921584078397, 0.988569959004573, 0.9928363836621779, 0.9897170115718731, 0.9795170926916801, 0, 0.9804339352746169, 0.9847954599561468, 0.9895034358194791, 0, 0.9766947237229511, 0.9840454248636566, 0.985551310500196, 0.9966835193566388, 0.9808123666468564, 0.9865298407751919, 0.972825266722538, 0, 0.9879500570720023, 0.9725337637884359, 0.9588361777016393, 0.98358098048015, 0, 0, 0, 0.9868450308299314]
+------------------------------------------
+11.24 Löschung und Abhandenkommen fremder Daten
+Versichert ist - abweichend von Abschnitt I § 2 Ziffer 2.2 und § 7 Ziffer 7.7 - die gesetzliche Haft-pflicht aus Schäden durch versehentliche Datenlöschung, Änderung der Datenstruktur und Ab-handenkommen von Daten (z.B. Datenverluste durch vorzeitige Freigabe von Bändern, Fehlver-sand bei Datenträgertausch) einschließlich aller hieraus resultierenden unmittelbaren Folgeschä-den.Schäden durch Löschung und Abhandenkommen von Daten gelten als Sachschäden.Die Ausschlussbestimmungen des Abschnitts I § 1 Ziffer 1.2 und § 7 Ziffer 7.8 bleiben bestehen.
+-1:9.624307228058543e-05		0:0.0026519518361192767		1:0.9972518050916002
+
+ Most similar to: Datenverlust
+------------------------------------------
+
+
+ List: [0.9994106514737032, 0.998983468867736, 0.9997371910875332, 0.9998009993446282, 0.9996187696833765, 0.9995408214823516, 0.9983893471077935, 0.999772420244111, 0.9995331213818582, 0.9994649632265477, 0.9980128562780424, 0.9992080324714351, 0.9995201783368735, 0, 0.9997242546822153, 0.9999330116871582, 0.9991146289066271, 0, 0.999092460873158, 0.9999895468768177, 0.9998188842758876, 0.995046012734817, 0.9996232273702154, 0.9996234605823674, 0.9984494086282028, 0, 0.9995146651739968, 0.998314404339024, 0.9940821816514092, 0.999755979565177, 0, 0, 0, 0.999737587367639]
+------------------------------------------
+
+======Category: Mietsachschäden an betrieblich genutzten Räumen durch Brand / Explosion ==============
+
+§ 9
+Deckungssummen/SublimiteEs gelten die im Versicherungsschein genannten Deckungssummen und Höchstersatzleistungen für alleVersicherungsfälle einer Versicherungsperiode.Innerhalb der vereinbarten Deckungssummen gelten nachstehende Sublimite:----Abhandenkommen von Schlüsseln und Codekarten, für Folgeschäden (Abschnitt II § 11 Zif-fer 11.1) 300.000 Euro;Ansprüche aus Benachteiligungen (Abschnitt II § 11 Ziffer 11.4) 300.000 Euro;Bewachte Sachen (Abschnitt II § 11 Ziffer 11.14) Schäden durch Abhandenkommen be-wachter Sachen 300.000 Euro;Erstellen von Energieausweisen / Energieberatung (Abschnitt II § 11 Ziffer 11.17) 300.000Euro;Stand: 05/2017Gothaer GewerbeProtect Haftpflichtversicherung für betriebliche oder berufliche Risikenfür Handel, Gewerbe, Handwerk (ohne Bauhauptgewerbe und ohne Kfz-Handel und Werkstätten)Seite 14Page 32</a>-Mietsachschäden an Staplern und Arbeitsmaschinen (Abschnitt II § 11 Ziffer 11.27.1.4)300.000 Euro;Nachbesserungsbegleitschäden (Abschnitt II § 11 Ziffer 11.28) 300.000 Euro;Vermögensschäden (Abschnitt II § 11 Ziffer 11.36.2.2 - 11.36.2.10) 300.000 Euro;--- Wasseranalyse (Abschnitt II § 11 Ziffer 11.39.) 300.000 Euro;---Aufwendungen vor Eintritt des Versicherungsfalles (Abschnitt III § 4) 1.000.000 Euro;Aufwendungen vor Eintritt des Versicherungsfalles (Abschnitt IV § 7) 1.000.000 Euro;Sanierung von Umweltschäden (USV) auf eigenen Grundstücken, in eigenen Gewässernund am Grundwasser (Abschnitt IV § 2 Ziffern 2.2.7 und 2.2.8) 1.000.000 Euro.Die Höchstersatzleistung der vorgenannten Sublimite für alle Versicherungsfälle einer Versicherungsperi-ode beträgt das Doppelte.
+-1:4.944236388346708e-06		0:6.498161281825196e-05		1:0.9999300741507934
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9921960028692964, 0.9801021785268375, 0.9843216941855907, 0.9891580670831364, 0.9913668245171686, 0.9917846739248863, 0.9778188370254951, 0.98717597689317, 0.9904998247355318, 0.9920175498238432, 0.9954893967708526, 0.9929783583271553, 0.9842327894333701, 0, 0.9850474131669897, 0.9888114690525269, 0.9927803495959021, 0, 0.9817388547002517, 0.9881869061240897, 0.9894522648380903, 0.9984006451956842, 0.9853531745321162, 0.9902865233297445, 0.9783083231435046, 0, 0.9914904346427571, 0.9780006233354938, 0.965628371023083, 0.9877682028072668, 0, 0, 0, 0.9905681687167209]
+------------------------------------------
+Ansprüche der versicherten Unternehmen untereinander
+Versichert sind - abweichend von Abschnitt I § 7 Ziffer 7.4.2 - Haftpflichtansprüche der versicher-ten Unternehmen wegen Personen- und Sachschäden.Nicht versichert sind Mietsachschäden gemäß Abschnitt II § 11 Ziffer 11.27.
+-1:2.2238395438849434e-06		0:0.0013315964707205576		1:0.9986661796897356
+
+ Most similar to: Bundesdatenschutzgesetzverletzung
+------------------------------------------
+
+
+ List: [0.994906639699303, 0.9996793533032707, 0.9988558274100886, 0.9968552770677381, 0.995597784819749, 0.9953199201178041, 0.9998442521256332, 0.9977140589695657, 0.9958257940642798, 0.9950668128488566, 0.9914154385938762, 0.9943142701190522, 0.9986412570116219, 0, 0.9985721189553796, 0.997111216481712, 0.9942598170259073, 0, 0.999167894018454, 0.997454519355354, 0.9967759380199271, 0.9858972260149627, 0.9983346057412994, 0.9960898701377482, 0.9997245659101096, 0, 0.9953779052000238, 0.9996054222297721, 0.9991157627691657, 0.997414896645312, 0, 0, 0, 0.9961454314641319]
+------------------------------------------
+11.27 Mietsachschäden
+11.27.1 Versichert ist - teilweise abweichend von Abschnitt I § 7 Ziffer 7.6 - die gesetzliche Haft-pflicht des Versicherungsnehmers wegen Schäden - einschließlich aller sich daraus er-gebenden Vermögensschäden - die entstehenStand: 05/2017Gothaer GewerbeProtect Haftpflichtversicherung für betriebliche oder berufliche Risikenfür Handel, Gewerbe, Handwerk (ohne Bauhauptgewerbe und ohne Kfz-Handel und Werkstätten)Seite 20
+-1:9.624307228058543e-05		0:0.0026519518361192767		1:0.9972518050916002
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9950511648247756, 0.9853916952383811, 0.9889408824509993, 0.992651357954752, 0.99448356276133, 0.9947883203198786, 0.983498758635532, 0.990991460917857, 0.9935110843182492, 0.9949040288025686, 0.9974374623184523, 0.9957394637629835, 0.9885966039458803, 0, 0.9893424414282503, 0.9926734668458641, 0.995382057205094, 0, 0.9865063344514234, 0.9921041778427008, 0.9930145273869189, 0.9993404623359446, 0.9894728361264156, 0.9934420319439953, 0.9836556636455516, 0, 0.9944228492394402, 0.9837969786266346, 0.972758733052562, 0.9914405484806912, 0, 0, 0, 0.9938336398213515]
+------------------------------------------
+
+======Category: AGG-Deckung ==============
+
+11.4
+Ansprüche aus Benachteiligungen11.4.1 Abweichend von Abschnitt I § 7 Ziffer 7.17 sowie Abschnitt II § 11 Ziffer 11.36.2 bestehtVersicherungsschutz für Ansprüche wegen Schäden aus Anfeindung, Schikane, Belästi-gung, Ungleichbehandlung oder sonstigen Diskriminierungen, soweit diese Ansprücheaus einer Verletzung von Vorschriften zum Schutz vor Benachteiligung resultieren, insbe-sondere aus dem Allgemeinen Gleichbehandlungsgesetz (AGG).
+-1:0.04866537889262261		0:0.8335540295094742		1:0.11778059159790315
+
+ Most similar to: AGG-Deckung
+------------------------------------------
+
+
+ List: [0.9995802836027426, 0.9986667793333845, 0.9995258693935084, 0.9999791096756975, 0.9996814283370069, 0.9996252649727264, 0.9980791451006058, 0.9999465151742454, 0.9997699284566302, 0.9995733617914772, 0.9981898276075497, 0.9993884370152708, 0.9996724986240362, 0, 0.9997788681313253, 0.9996392815165239, 0.9993952655628195, 0, 0.9992385789851438, 0.9998169427502003, 0.9997484030420675, 0.9952935582169616, 0.9997909237720264, 0.9998558919696044, 0.9984088312311211, 0, 0.9996523266409979, 0.9976580735499901, 0.9937588583292387, 0.9999714713074114, 0, 0, 0, 0.9998413287510168]
+------------------------------------------
+§ 9
+Deckungssummen/SublimiteEs gelten die im Versicherungsschein genannten Deckungssummen und Höchstersatzleistungen für alleVersicherungsfälle einer Versicherungsperiode.Innerhalb der vereinbarten Deckungssummen gelten nachstehende Sublimite:----Abhandenkommen von Schlüsseln und Codekarten, für Folgeschäden (Abschnitt II § 11 Zif-fer 11.1) 300.000 Euro;Ansprüche aus Benachteiligungen (Abschnitt II § 11 Ziffer 11.4) 300.000 Euro;Bewachte Sachen (Abschnitt II § 11 Ziffer 11.14) Schäden durch Abhandenkommen be-wachter Sachen 300.000 Euro;Erstellen von Energieausweisen / Energieberatung (Abschnitt II § 11 Ziffer 11.17) 300.000Euro;Stand: 05/2017Gothaer GewerbeProtect Haftpflichtversicherung für betriebliche oder berufliche Risikenfür Handel, Gewerbe, Handwerk (ohne Bauhauptgewerbe und ohne Kfz-Handel und Werkstätten)Seite 14Page 32</a>-Mietsachschäden an Staplern und Arbeitsmaschinen (Abschnitt II § 11 Ziffer 11.27.1.4)300.000 Euro;Nachbesserungsbegleitschäden (Abschnitt II § 11 Ziffer 11.28) 300.000 Euro;Vermögensschäden (Abschnitt II § 11 Ziffer 11.36.2.2 - 11.36.2.10) 300.000 Euro;--- Wasseranalyse (Abschnitt II § 11 Ziffer 11.39.) 300.000 Euro;---Aufwendungen vor Eintritt des Versicherungsfalles (Abschnitt III § 4) 1.000.000 Euro;Aufwendungen vor Eintritt des Versicherungsfalles (Abschnitt IV § 7) 1.000.000 Euro;Sanierung von Umweltschäden (USV) auf eigenen Grundstücken, in eigenen Gewässernund am Grundwasser (Abschnitt IV § 2 Ziffern 2.2.7 und 2.2.8) 1.000.000 Euro.Die Höchstersatzleistung der vorgenannten Sublimite für alle Versicherungsfälle einer Versicherungsperi-ode beträgt das Doppelte.
+-1:4.944236388346708e-06		0:6.498161281825196e-05		1:0.9999300741507934
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9921960028692964, 0.9801021785268375, 0.9843216941855907, 0.9891580670831364, 0.9913668245171686, 0.9917846739248863, 0.9778188370254951, 0.98717597689317, 0.9904998247355318, 0.9920175498238432, 0.9954893967708526, 0.9929783583271553, 0.9842327894333701, 0, 0.9850474131669897, 0.9888114690525269, 0.9927803495959021, 0, 0.9817388547002517, 0.9881869061240897, 0.9894522648380903, 0.9984006451956842, 0.9853531745321162, 0.9902865233297445, 0.9783083231435046, 0, 0.9914904346427571, 0.9780006233354938, 0.965628371023083, 0.9877682028072668, 0, 0, 0, 0.9905681687167209]
+------------------------------------------
+7.16
+7.177.18Haftpflichtansprüche wegen Schäden aus Persönlichkeits- oder Namensrechtsverletzungen.Haftpflichtansprüche wegen Schäden aus Anfeindung, Schikane, Belästigung, Ungleichbehand-lung oder sonstigen Diskriminierungen.Haftpflichtansprüche wegen Personenschäden, die aus der Übertragung einer Krankheit des Ver-sicherungsnehmers resultieren. Das Gleiche gilt für Sachschäden, die durch Krankheit der demVersicherungsnehmer gehörenden, von ihm gehaltenen oder veräußerten Tiere entstanden sind.In beiden Fällen besteht Versicherungsschutz, wenn der Versicherungsnehmer beweist, dass erweder vorsätzlich noch grob fahrlässig gehandelt hat.Erfolgt die Meldung der Änderungen zu den versicherten Risiken gemäß Teil A § 26 verspätet, falsch odergar nicht, so ist der Versicherer berechtigt bei unrichtigen Angaben zum Nachteil des Versicherers eineVertragsstrafe in dreifacher Höhe des festgestellten Beitragsunterschiedes zu verlangen. Dies gilt nicht,wenn der Versicherungsnehmer beweist, dass ihn an der Unrichtigkeit der Angaben kein Verschuldentrifft.Abweichend von Teil A § 13 Ziffer 13.1 kann das Versicherungsverhältnis nur gekündigt werden, wenn---von dem Versicherer eine Schadensersatzzahlung geleistet wurde,der Versicherer den Anspruch des Versicherungsnehmers auf Freistellung zu Unrecht abge-lehnt hat odervom Versicherungsnehmer eine Klage über einen unter den Versicherungsschutz fallendenHaftpflichtanspruch gerichtlich zugestellt wird.Die Kündigung muss dem Vertragspartner in Textform spätestens einen Monat nach der Schadensersatz-zahlung, der Ablehnung oder der Zustellung der Klage zugegangen sein.
+-1:0.0016437113591158627		0:0.02108262902006434		1:0.9772736596208198
+
+ Most similar to: Leitungsschäden
+------------------------------------------
+
+
+ List: [0.9995977438031648, 0.9985064800184066, 0.9993887617783829, 0.9999560799822953, 0.9996757614557499, 0.9996595276436685, 0.9978274495241257, 0.9999477438834328, 0.9998781731695554, 0.9996276751056596, 0.9983055410791377, 0.9993807754900378, 0.9995943393074951, 0, 0.999705062769185, 0.999573340964034, 0.9994714169918621, 0, 0.9991319788130032, 0.9997302705434797, 0.9997583434941821, 0.9954169311812664, 0.9997880502786273, 0.9999147424670602, 0.9982630205516893, 0, 0.9997366895856233, 0.9974383200491227, 0.9934342943641152, 0.999974287771009, 0, 0, 0, 0.9998512926279769]
+------------------------------------------
+
+======Category: Photovoltaikanlage ==============
+
+3.2
+Falls danach ein Restbetrag verbleibt oder kein Zahlungsrückstand im Sinne der §§ 37, 38 VVGbesteht, erfolgt die Verrechnung derartiger Zahlungen in folgender Reihenfolge:1. Haftpflichtversicherung für betriebliche und berufliche Risiken2. Gebäudeversicherung - Feuer3. Gebäudeversicherung - Leitungswasser4. Gebäudeversicherung - Elementar5. Gebäudeversicherung - Sturm, Hagel6. Gebäudeversicherung - Glasbruch7. Gebäudeversicherung - Unbenannte Gefahren8. Gebäudeversicherung - Erweiterte Deckung9.10.11.12.13.14.15.16.17. Versicherung für stationäre und transportable Maschinen18. Versicherung für selbstfahrende und fahrbare Geräte19. Elektronikversicherung20. Photovoltaikversicherung21. Betriebsschließungsversicherung22. Werkverkehrsversicherung23. Haftpflichtversicherung für private RisikenInhaltsversicherung - FeuerInhaltsversicherung - LeitungswasserInhaltsversicherung - ElementarInhaltsversicherung - Sturm, HagelInhaltsversicherung - EinbruchdiebstahlInhaltsversicherung - GlasInhaltsversicherung - Unbenannte GefahrenInhaltsversicherung - Erweiterte Deckung
+-1:0.0008397701019142881		0:0.26544386773785605		1:0.7337163621602295
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9866888088841189, 0.971788872082818, 0.9768665301084225, 0.982833551937838, 0.9855866843936278, 0.9860797762862716, 0.9691996927661408, 0.9803545120870901, 0.9844504647085175, 0.9863953852836427, 0.9910529349123104, 0.9877705181969325, 0.9768350641826562, 0, 0.9777636922022334, 0.982351179820198, 0.9874411728632081, 0, 0.9738624461778798, 0.981599630264539, 0.9831464880413755, 0.995408833817194, 0.9781276720070741, 0.9842400336143688, 0.969745597085745, 0, 0.9856928018099729, 0.9693621072816857, 0.9551587731290545, 0.9811005232031715, 0, 0, 0, 0.9845591718485486]
+------------------------------------------
+
+======Category: Mangelbeseitigungsnebenkosten ==============
+
+§ 18
+Verjährung§ 19Örtlich zuständiges Gericht19.1Klagen gegen den VersichererFür Klagen aus dem Versicherungsvertrag gegen den Versicherer bestimmt sich die gerichtlicheZuständigkeit nach dem Sitz des Versicherers oder seiner für den Versicherungsvertrag zuständi-gen Niederlassung.Ferner ist auch das Gericht zuständig, in dessen Bezirk der Versicherungsnehmer zur Zeit derKlageerhebung seinen Sitz, den Sitz seiner Niederlassung oder seinen Wohnsitz oder, in Erman-gelung eines solchen, seinen gewöhnlichen Aufenthalt hat.Verlegt jedoch der Versicherungsnehmer nach Vertragsschluss seinen Sitz, den Sitz seiner Nie-derlassung, seinen Wohnsitz oder, in Ermangelung eines solchen, seinen gewöhnlichen Aufent-halt ins Ausland, sind die Gerichte des Staates zuständig, in dem der Versicherer seinen Sitz hat.
+-1:0.01841404279083454		0:0.6965505605944003		1:0.28503539661476507
+
+ Most similar to: Aktive Werklohnklage
+------------------------------------------
+
+
+ List: [0.9999127965553573, 0.99761788399681, 0.9988693079878089, 0.9998870989615514, 0.9998938198718529, 0.9999091220085801, 0.996757176216875, 0.9996567108189741, 0.9999781711504914, 0.9999209207510056, 0.9991249677978006, 0.999784631677597, 0.9990215044200518, 0, 0.9992172127909297, 0.9995362708717693, 0.9998511403741858, 0, 0.9983273660064766, 0.9996058005667924, 0.9997451877573742, 0.996855019614593, 0.9993034361310835, 0.999972919510492, 0.9971931159166947, 0, 0.9999581526470244, 0.9964484542587964, 0.991489044476095, 0.9997480300078176, 0, 0, 0, 0.9999450385722233]
+------------------------------------------
+7.1
+7.2Versicherungsansprüche aller Personen, die den Schaden vorsätzlich herbeigeführt haben.Versicherungsansprüche aller Personen, die den Schaden dadurch verursacht haben, dass sie inKenntnis von deren Mangelhaftigkeit oder Schädlichkeit--Erzeugnisse in den Verkehr gebracht oderArbeiten oder sonstige Leistungen erbracht haben.Stand: 05/2017Gothaer GewerbeProtect Haftpflichtversicherung für betriebliche oder berufliche Risikenfür Handel, Gewerbe, Handwerk (ohne Bauhauptgewerbe und ohne Kfz-Handel und Werkstätten)Seite 7
+-1:0.04866537889262261		0:0.8335540295094742		1:0.11778059159790315
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9912485020821045, 0.9785699784332803, 0.9829733393945383, 0.9880786863946215, 0.9903351761106178, 0.990776392173885, 0.9762646467244892, 0.9860070965526864, 0.9894412816705246, 0.9910118372802559, 0.9947017887147335, 0.992113336107517, 0.9829942594558677, 0, 0.9837821856643297, 0.987612925668701, 0.991871955973296, 0, 0.9804215689677117, 0.987007320374008, 0.9882780142024279, 0.9979123360038586, 0.9841055947688719, 0.9892500363138176, 0.9768212223571324, 0, 0.9904501415465404, 0.9763689371701734, 0.963791963891213, 0.9866253913924219, 0, 0, 0, 0.9895234425417301]
+------------------------------------------
+7.8
+7.97.107.7.3die Schäden durch eine betriebliche oder berufliche Tätigkeit des Versicherungsnehmerentstanden sind und sich diese Sachen oder - sofern es sich um unbewegliche Sachenhandelt - deren Teile im unmittelbaren Einwirkungsbereich der Tätigkeit befunden haben;dieser Ausschluss gilt nicht, wenn der Versicherungsnehmer beweist, dass er zum Zeit-punkt der Tätigkeit offensichtlich notwendige Schutzvorkehrungen zur Vermeidung vonSchäden getroffen hatte.Zu Ziffer 7.6 und Ziffer 7.7:Sind die Voraussetzungen der Ausschlüsse in Ziffer 7.6 und Ziffer 7.7 in der Person von Ange-stellten, Arbeitern, Bediensteten, Bevollmächtigten oder Beauftragten des Versicherungsnehmersgegeben, so entfällt gleichfalls der Versicherungsschutz, und zwar sowohl für den Versicherungs-nehmer als auch für die durch den Versicherungsvertrag etwa mitversicherten Personen.Haftpflichtansprüche wegen Schäden an vom Versicherungsnehmer hergestellten oder geliefertenSachen, Arbeiten oder sonstigen Leistungen infolge einer in der Herstellung, Lieferung oder Leis-tung liegenden Ursache und alle sich daraus ergebenden Vermögensschäden. Dies gilt auchdann, wenn die Schadenursache in einem mangelhaften Einzelteil der Sache oder in einer man-gelhaften Teilleistung liegt und zur Beschädigung oder Vernichtung der gesamten Sache oderLeistung führt.Dieser Ausschluss findet auch dann Anwendung, wenn Dritte im Auftrag oder für Rechnung desVersicherungsnehmers die Herstellung oder Lieferung der Sachen oder die Arbeiten oder sonsti-gen Leistungen übernommen haben.Haftpflichtansprüche aus im Ausland vorkommenden Schadenereignissen; Ansprüche aus § 110SGB VII sind jedoch mitversichert.
+-1:0.9957687372189338		0:0.0014978889098133615		1:0.0027333738712528987
+
+ Most similar to: Leitungsschäden
+------------------------------------------
+
+
+ List: [0.9995517320351562, 0.9985560562863544, 0.9994164145529398, 0.9999588137784088, 0.9996238136496758, 0.9995942658040182, 0.9979379891735998, 0.9999620041503983, 0.9998043992447639, 0.9995470072034823, 0.9981684021108972, 0.9993605298996975, 0.9996741403585918, 0, 0.9997490887137065, 0.9995246293949015, 0.9994094092251218, 0, 0.9992457223865231, 0.9997176875241948, 0.9996976779927258, 0.9952596499302471, 0.9998184664285902, 0.9998806593035823, 0.9983739195593122, 0, 0.9996504467764317, 0.9974843415311088, 0.9936645169965924, 0.9999837990665238, 0, 0, 0, 0.9998187795335852]
+------------------------------------------
+11.15 Energiemehrkosten
+Versichert ist - teilweise abweichend von Abschnitt I § 1 Ziffer 1.1 und § 7 Ziffer 7.7 sowie Ab-schnitt II § 11 Ziffer 11.36.2.2 a) - die gesetzliche Haftpflicht wegen eines erhöhten Energie- undWasserverbrauchs und erhöhter Energiekosten aufgrund vom Versicherungsnehmer mangelhaftdurchgeführter Installations-, Reparatur- oder Wartungsarbeiten.Vom Versicherungsschutz ausgeschlossen bleiben Ansprüche infolge vollständiger oder teilwei-ser Unwirksamkeit von Energiesparmaßnahmen.
+-1:0.002103276529410717		0:0.006502865364665627		1:0.9913938581059237
+
+ Most similar to: Medienverluste
+------------------------------------------
+
+
+ List: [0.9979317403200797, 0.9998594633197434, 0.9998896560049573, 0.9990902214179306, 0.9983039686191838, 0.9981400863278311, 0.9996554327787652, 0.9994991748577939, 0.9984674682921726, 0.9979895261854405, 0.9954777949336493, 0.997544314201575, 0.9998503581372341, 0, 0.9998565596268288, 0.9990938880869645, 0.9974915493514684, 0, 0.9998905679101654, 0.999359681847084, 0.9989123853517273, 0.9912898630273687, 0.9997190070104384, 0.998645133574695, 0.9997640483640831, 0, 0.9981784624700617, 0.9993616030202771, 0.9971431402739201, 0.9993578168151565, 0, 0, 0, 0.9986675384271912]
+------------------------------------------
+11.25 Mangelbeseitigungsnebenkosten
+Versichert sind Haftpflichtansprüche wegen Sachschäden, die als Folge eines mangelhaften Wer-kes auftreten und erfasst insoweit auch die Kosten, die erforderlich sind, um die mangelhafteWerkleistung zum Zwecke der Schadenbeseitigung zugänglich zu machen und um den vorheri-gen Zustand wieder herzustellen.Nicht gedeckt sind diese Kosten, wenn sie nur zur Nachbesserung aufgewendet werden, ohnedass ein Folgeschaden eingetreten ist. Ferner sind in jedem Fall nicht gedeckt die Kosten desVersicherungsnehmers für die Beseitigung des Mangels an der Werkleistung selbst.
+-1:0.0005850946711405901		0:0.099208725852735		1:0.9002061794761245
+
+ Most similar to: Sachschäden an geliehenen / gemieteten Arbeitsmaschinen
+------------------------------------------
+
+
+ List: [0.9992346156062377, 0.9991778247661921, 0.9997707825103659, 0.9998318972943536, 0.9994635907534556, 0.999395128652509, 0.9986331775188034, 0.9999414448369314, 0.9995737235352244, 0.999314587056147, 0.9976237113897375, 0.9989605131945974, 0.9997663038049528, 0, 0.9999064959754799, 0.9996796834086803, 0.9990030460036771, 0, 0.999456591096949, 0.9998168014780933, 0.9997560372918541, 0.9943204919019474, 0.9999051104871096, 0.9996486108937229, 0.9988586578931076, 0, 0.9994411205450592, 0.9983428429483684, 0.9947453234366109, 0.9999150813311805, 0, 0, 0, 0.9996639856063699]
+------------------------------------------
+
+======Category: Bundesdatenschutzgesetzverletzung ==============
+
+2.4.1
+aller gesetzlichen Vertreter sowie solcher Personen, die er zur Leitung oder Beaufsichti-gung des versicherten Betriebes oder eines Teils desselben angestellt hat, in dieser Ei-genschaft.Hierzu zählen auch solche Personen, denen Unternehmerpflichten im Sinne von § 15SGB VII in Verbindung mit § 9 (2) OWiG übertragen wurden sowie Fachkräfte für Ar-beitssicherheit, Sicherheitsbeauftragte, Beauftragte für Immissionsschutz, Strahlen-schutz, Gewässerschutz, Abfallbeseitigung, Datenschutz und dergleichen.
+-1:0.04866537889262261		0:0.8335540295094742		1:0.11778059159790315
+
+ Most similar to: Bauherrenhaftpflicht
+------------------------------------------
+
+
+ List: [0.9998859948331734, 0.9957885547021806, 0.9975944485055726, 0.9993111778608929, 0.9997091773816279, 0.9997877637758794, 0.9946931769141526, 0.9987461813346515, 0.9996031171013551, 0.9998396041646956, 0.9998234379266145, 0.9999295491228032, 0.9977084118819637, 0, 0.9980101886605954, 0.9989437352960856, 0.9999327146837249, 0, 0.9966864933784763, 0.998902244582515, 0.9992210146422176, 0.9985054961240163, 0.9981210367878939, 0.9995711230229837, 0.995126870006249, 0, 0.999767590912945, 0.9944409442505112, 0.9881528865849685, 0.9989370774398976, 0, 0, 0, 0.9996028419180822]
+------------------------------------------
+11.8.3 Vermögensschäden aus der Verletzung von Datenschutzgesetzen im Umfang des Ab-
+schnitt II § 11 Ziffer 11.36.1.
+-1:0.04866537889262261		0:0.8335540295094742		1:0.11778059159790315
+
+ Most similar to: Umwelthaftpflichtbasisversicherung Kleingebinde
+------------------------------------------
+
+
+ List: [0.9982684035790386, 0.99247612578952, 0.9948177060117352, 0.9969667294987307, 0.9981305434220311, 0.9982203613152222, 0.9909791168581407, 0.9959505289067164, 0.99749972371735, 0.9983116270593796, 0.9992428021458919, 0.9984530706451712, 0.9943091480156909, 0, 0.9949580520096128, 0.9972003598297033, 0.9983673907110662, 0, 0.9928448709373516, 0.9967876106780666, 0.997433916275253, 0.9990240361260104, 0.9949774248375125, 0.9973767971761358, 0.9910063234891776, 0, 0.9980659804287768, 0.9912578563568908, 0.9826486058971731, 0.9962242992520655, 0, 0, 0, 0.997685182550221]
+------------------------------------------
+11.36 Vermögensschäden
+11.36.1 DatenschutzVersichert ist die gesetzliche Haftpflicht wegen Vermögensschäden im Sinne des Ab-schnitts I § 2 Ziffer 2.1 wegen Versicherungsfällen, die während der Wirksamkeit der Ver-sicherung eingetreten sind, aus der Verletzung von Datenschutzgesetzen durch Verwen-dung personenbezogener Daten.
+-1:0.04866537889262261		0:0.8335540295094742		1:0.11778059159790315
+
+ Most similar to: Bundesdatenschutzgesetzverletzung
+------------------------------------------
+
+
+ List: [0.9960826601317927, 0.9998798948522968, 0.999398220717654, 0.9977297470271146, 0.9966668409470016, 0.9963991958908298, 1.0, 0.9983679675895983, 0.9967650166958559, 0.9961843075695225, 0.9929543070648151, 0.9955764699564295, 0.999125982453317, 0, 0.9991073085950473, 0.9979868741513637, 0.9954542067097397, 0, 0.9994684374251808, 0.9983080875928836, 0.9976126902583744, 0.9879355325703258, 0.9988285992093819, 0.9970237361568812, 0.9998145366150865, 0, 0.9964126291489576, 0.999721233239419, 0.9985513544622291, 0.9981457633844943, 0, 0, 0, 0.9971164280666047]
+------------------------------------------
+11.24 Löschung und Abhandenkommen fremder Daten
+Versichert ist - abweichend von Abschnitt I § 2 Ziffer 2.2 und § 7 Ziffer 7.7 - die gesetzliche Haft-pflicht aus Schäden durch versehentliche Datenlöschung, Änderung der Datenstruktur und Ab-handenkommen von Daten (z.B. Datenverluste durch vorzeitige Freigabe von Bändern, Fehlver-sand bei Datenträgertausch) einschließlich aller hieraus resultierenden unmittelbaren Folgeschä-den.Schäden durch Löschung und Abhandenkommen von Daten gelten als Sachschäden.Die Ausschlussbestimmungen des Abschnitts I § 1 Ziffer 1.2 und § 7 Ziffer 7.8 bleiben bestehen.
+-1:9.624307228058543e-05		0:0.0026519518361192767		1:0.9972518050916002
+
+ Most similar to: Datenverlust
+------------------------------------------
+
+
+ List: [0.9994106514737032, 0.998983468867736, 0.9997371910875332, 0.9998009993446282, 0.9996187696833765, 0.9995408214823516, 0.9983893471077935, 0.999772420244111, 0.9995331213818582, 0.9994649632265477, 0.9980128562780424, 0.9992080324714351, 0.9995201783368735, 0, 0.9997242546822153, 0.9999330116871582, 0.9991146289066271, 0, 0.999092460873158, 0.9999895468768177, 0.9998188842758876, 0.995046012734817, 0.9996232273702154, 0.9996234605823674, 0.9984494086282028, 0, 0.9995146651739968, 0.998314404339024, 0.9940821816514092, 0.999755979565177, 0, 0, 0, 0.999737587367639]
+------------------------------------------
+
+======Category: Sachschäden an geliehenen / gemieteten Arbeitsmaschinen ==============
+
+
+======Category: Aktive Werklohnklage ==============
+
+Was ist von Ihnen im
+Schadenfall zu beachten?Bei Eintritt des Versicherungsfalles sind insbesondere Sie oder ein anspruchsberechtigter Dritter ver-pflichtet, uns den Eintritt des Versicherungsfalles, nachdem Sie bzw. der Dritte vom VersicherungsfallKenntnis erlangt haben, unverzüglich anzuzeigen, uns alle zur Prüfung des Schaden- / Leistungsfallesnotwendigen Auskünfte zu erteilen und Unterlagen zu überlassen.Erheben Sie sofort Widerspruch gegen einen gegen Sie beantragten gerichtlichen Mahnbescheid. Infor-mieren Sie uns unverzüglich von einer gegen Sie erhobenen Klage und reichen Sie alle gerichtlich zuge-henden Schriftstücke schnellstens ein. Zeigen Sie uns auch sofort an, wenn gegen Sie ein Anspruch ge-richtlich geltend gemacht, die Prozesskostenhilfe beantragt oder Ihnen gerichtlich der Streit verkündetwird. Das gleiche gilt im Falle eines Arrestes, einer einstweiligen Verfügung oder eines Beweissicherungs-verfahrens.Übrigens: Ihre Schadenmeldung können Sie schnell und einfach telefonisch vornehmen.
+-1:0.04866537889262261		0:0.8335540295094742		1:0.11778059159790315
+
+ Most similar to: Aktive Werklohnklage
+------------------------------------------
+
+
+ List: [0.9999372666795762, 0.9972840980994045, 0.9986340507089411, 0.9998125639569132, 0.9998803573933089, 0.999920228747129, 0.9963585410242045, 0.9995328857949048, 0.9999767468675985, 0.9999433893622592, 0.9992882879230883, 0.9998285354163801, 0.9988082020431743, 0, 0.9990217142023856, 0.9994138646638813, 0.9999129083037109, 0, 0.9980536201867176, 0.999471030574826, 0.9996731947592121, 0.9971785458819533, 0.9991373770857276, 0.9999486570535846, 0.9968342706518971, 0, 0.9999753654268317, 0.996038445125705, 0.990861750169364, 0.9996474721760786, 0, 0, 0, 0.9999123526789973]
+------------------------------------------
+§ 6
+Begrenzung der Leistungen6.16.26.36.46.56.66.7Die Entschädigungsleistung des Versicherers ist bei jedem Versicherungsfall auf die vereinbartenDeckungssummen begrenzt. Dies gilt auch dann, wenn sich der Versicherungsschutz auf mehre-re entschädigungspflichtige Personen erstreckt.Sofern nicht etwas anderes vereinbart wurde, sind die Entschädigungsleistungen des Versiche-rers für alle Versicherungsfälle einer Versicherungsperiode auf das Einfache der vereinbarten De-ckungssummen begrenzt.Mehrere während der Wirksamkeit der Versicherung eintretende Versicherungsfälle gelten als einVersicherungsfall, der im Zeitpunkt des ersten dieser Versicherungsfälle eingetreten ist, wenn die-se--auf derselben Ursache,auf gleichen Ursachen, z. B. aus dem gleichen Konstruktions-, Produktions- oder Instrukti-onsfehler, mit innerem, insbesondere sachlichem und zeitlichem, Zusammenhang oderauf der Lieferung von Waren / Erzeugnisse, die mit den gleichen Mängeln behaftet sind,-beruhen.Die zeitliche Geltung des Versicherungsschutzes bezieht sich ausschließlich auf Versicherungs-fälle solcher Serien, deren erster Versicherungsfall während der Wirksamkeit der Versicherungeingetreten ist, aber auch auf alle Versicherungsfälle dieser Serie.Der Versicherungsnehmer beteiligt sich bei jedem Versicherungsfall mit dem im Versicherungs-schein festgelegten Betrag an der Schadensersatzleistung (Selbstbeteiligung). Auch wenn die be-gründeten Haftpflichtansprüche aus einem Versicherungsfall die Deckungssumme übersteigen,wird die Selbstbeteiligung vom Betrag der begründeten Haftpflichtansprüche abgezogen. Ziffer6.1 bleibt unberührt.Der Versicherer ist auch bei Schäden, deren Höhe die Selbstbeteiligung nicht übersteigt, zur Ab-wehr unberechtigter Schadensersatzansprüche verpflichtet.Die Aufwendungen des Versicherers für Kosten werden nicht auf die Deckungssummen ange-rechnet.Übersteigen die begründeten Haftpflichtansprüche aus einem Versicherungsfall die Deckungs-summe, trägt der Versicherer die Prozesskosten im Verhältnis der Deckungssumme zur Gesamt-höhe dieser Ansprüche.Hat der Versicherungsnehmer an den Geschädigten Rentenzahlungen zu leisten und übersteigtder Kapitalwert der Rente die Deckungssumme oder den nach Abzug etwaiger sonstiger Leistun-gen aus dem Versicherungsfall noch verbleibenden Restbetrag der Deckungssumme, so wird diezu leistende Rente nur im Verhältnis der Deckungssumme bzw. ihres Restbetrages zum Kapital-wert der Rente von dem Versicherer erstattet.Für die Berechnung des Rentenwertes gilt die entsprechende Vorschrift der Verordnung über denVersicherungsschutz in der Kraftfahrzeug-Haftpflichtversicherung in der jeweils gültigen Fassungzum Zeitpunkt des Versicherungsfalles.Bei der Berechnung des Betrages, mit dem sich der Versicherungsnehmer an laufenden Renten-zahlungen beteiligen muss, wenn der Kapitalwert der Rente die Deckungssumme oder die nachAbzug sonstiger Leistungen verbleibende Restdeckungssumme übersteigt, werden die sonstigenLeistungen mit ihrem vollen Betrag von der Deckungssumme abgesetzt.
+-1:0.0011678725399088554		0:0.18785322037707078		1:0.8109789070830205
+
+ Most similar to: Bauherrenhaftpflicht
+------------------------------------------
+
+
+ List: [0.9998877783487062, 0.9959893749655889, 0.9977259746576423, 0.9993567345800898, 0.9997708700480973, 0.9998465455534238, 0.9948787757268361, 0.9988265789608337, 0.9996632823608713, 0.9998986053546981, 0.9998222278441105, 0.9999012205520742, 0.9977654447129473, 0, 0.9981041970393785, 0.9990409498724838, 0.9999488686058543, 0, 0.9967687517126947, 0.9989622305972529, 0.9993651849101387, 0.9983857616762211, 0.9982378347254328, 0.9996142235581514, 0.9952639162267801, 0, 0.9998415176480691, 0.9946660037584611, 0.9883824939760156, 0.9990097470136335, 0, 0, 0, 0.9996583840895017]
+------------------------------------------
+
+======Category: Umwelthaftpflichtbasisversicherung ==============
+
+Abschnitt III Umwelthaftpflichtversicherung (UHV)
+§ 1 Gegenstand der Versicherung§ 2 Versicherte Risiken§ 3 Versicherungsfall§ 4 Aufwendungen vor Eintritt des Versicherungsfalles§ 5 Nicht versicherte Tatbestände§ 6 Serienschäden§ 7 Nachhaftung§ 8 Versicherungsfälle im Ausland
+-1:0.3013519257837935		0:0.69144653467156		1:0.007201539544646513
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9973413508878975, 0.989446220048798, 0.9923941670771793, 0.9955120919377722, 0.9969066073950057, 0.9971868126725896, 0.9876569508597619, 0.9942729470545547, 0.9963667530023238, 0.997298500563117, 0.9990269097527685, 0.9977570481633239, 0.9922261770819399, 0, 0.9928481437041429, 0.995445923934755, 0.9976409936112433, 0, 0.9904597127323448, 0.9949929234471826, 0.9957890416476005, 0.9998241782439029, 0.9930525508736068, 0.9962191889071874, 0.9880364284645069, 0, 0.9970108401511385, 0.9879318941742208, 0.9782792339692238, 0.994610213328371, 0, 0, 0, 0.9964477036637134]
+------------------------------------------
+Abschnitt III Umwelthaftpflichtversicherung (UHV)
+§ 1Gegenstand der Versicherung1.1§ 2Versicherte Risiken1.21.32.12.2Versichert ist - abweichend von Abschnitt I § 7 Ziffer 7.10.2 - die gesetzliche Haftpflicht privat-rechtlichen Inhalts des Versicherungsnehmers wegen Personen- und Sachschäden durch Um-welteinwirkung auf Boden, Luft oder Wasser (einschließlich Gewässer), von gemäß Abschnitt II§ 2 Ziffern 2.1 und 2.2 versicherte Risiken.Versichert sind gemäß Abschnitt I § 2 Ziffer 2.1 Vermögensschäden aus der Verletzung von An-eignungsrechten, des Rechts am eingerichteten und ausgeübten Gewerbebetrieb und wasser-rechtlichen Benutzungsrechten oder -befugnissen.Versicherungsschutz besteht auch dann, wenn gelagerte Stoffe bei ihrer Verwendung im räumli-chen und gegenständlichen Zusammenhang mit versicherten Anlagen in Boden, Luft oder Was-ser (einschließlich Gewässer) gelangen, ohne in diese eingebracht oder eingeleitet zu sein.Der Versicherungsschutz bezieht sich auch auf die Haftpflicht wegen Schäden eines Dritten, diedadurch entstehen, dass Stoffe in Abwässer und mit diesen in Gewässer gelangen.Versichert sind Ansprüche aus Umwelteinwirkungen, die im Zusammenhang mit der im Versiche-rungsschein beschriebenen Tätigkeit stehen, soweit diese nicht von Anlagen oder Tätigkeiten aus-gehen, die gemäß Ziffer 2.3 ausgeschlossen sind.Versichert sind darüber hinaus Ansprüche aus Umwelteinwirkungen durch folgende Anlagen undTätigkeiten:
+-1:0.8845240749005414		0:0.10623669942343557		1:0.009239225676023144
+
+ Most similar to: Sachschäden an geliehenen / gemieteten Arbeitsmaschinen
+------------------------------------------
+
+
+ List: [0.9992926138589621, 0.9991151513728564, 0.9997472401043282, 0.9998799094868629, 0.9994782689847507, 0.9994120577580131, 0.9985895472322225, 0.9999775931890373, 0.9995935097292283, 0.9993256144642568, 0.997660508547898, 0.9990538811074057, 0.9998332333646551, 0, 0.9999266171044224, 0.9996595890820041, 0.99905833340212, 0, 0.9995185975102434, 0.999831410962717, 0.9997173180083649, 0.9944377749350555, 0.9999258867026954, 0.9996968792593823, 0.9988685743915484, 0, 0.9994429581022588, 0.9982533844275175, 0.9947210461159023, 0.9999508923138727, 0, 0, 0, 0.9996961342643591]
+------------------------------------------
+
+======Category: Umwelthaftpflichtbasisversicherung Kleingebinde ==============
+
+2.2.1
+Kleingebinde bis 500 Liter/Kilogramm je Einzelgebinde, sofern die Gesamtmenge allerEinzelgebinde eine Gesamtmenge von 5.000 Liter/Kilogramm je Betriebsstätte nicht über-steigt.Wird jedoch eine dieser Mengenschwellen überschritten, erlischt diese Sonderregelungvollständig. Der Versicherungsschutz bedarf dann besonderer Vereinbarung.
+-1:0.024671401128559912		0:0.5883899149415062		1:0.38693868392993397
+
+ Most similar to: Umwelthaftpflichtbasisversicherung Kleingebinde
+------------------------------------------
+
+
+ List: [0.999752882036631, 0.995297352691205, 0.9972048062264858, 0.9990501151364296, 0.9995899791937947, 0.9996949660599272, 0.9941048737189025, 0.9984253780850892, 0.9994306425368382, 0.9997598975504033, 0.9999412394318163, 0.9998264269466959, 0.9972259951355741, 0, 0.9975992206810869, 0.9987597629454313, 0.9998573633402456, 0, 0.9961263251048481, 0.9986274240248856, 0.9991023923325626, 0.998788404897216, 0.9977535989799835, 0.9993748070144542, 0.9944892887039459, 0, 0.999669082520172, 0.9939454315947207, 0.9872095628134989, 0.9986294904565725, 0, 0, 0, 0.999435884949474]
+------------------------------------------
+2.2.1
+Kleingebinde bis 500 Liter/Kilogramm je Einzelgebinde, sofern die Gesamtmenge allerEinzelgebinde eine Gesamtmenge von 5.000 Liter/Kilogramm je Betriebsstätte nicht über-steigt.Wird jedoch eine dieser Mengenschwellen überschritten, erlischt diese Sonderregelungvollständig. Der Versicherungsschutz bedarf dann besonderer Vereinbarung.
+-1:0.024671401128559912		0:0.5883899149415062		1:0.38693868392993397
+
+ Most similar to: Umwelthaftpflichtbasisversicherung Kleingebinde
+------------------------------------------
+
+
+ List: [0.999752882036631, 0.995297352691205, 0.9972048062264858, 0.9990501151364296, 0.9995899791937947, 0.9996949660599272, 0.9941048737189025, 0.9984253780850892, 0.9994306425368382, 0.9997598975504033, 0.9999412394318163, 0.9998264269466959, 0.9972259951355741, 0, 0.9975992206810869, 0.9987597629454313, 0.9998573633402456, 0, 0.9961263251048481, 0.9986274240248856, 0.9991023923325626, 0.998788404897216, 0.9977535989799835, 0.9993748070144542, 0.9944892887039459, 0, 0.999669082520172, 0.9939454315947207, 0.9872095628134989, 0.9986294904565725, 0, 0, 0, 0.999435884949474]
+------------------------------------------
+8.14.2 Pflichten oder Ansprüche wegen Schäden,
+--die von unterirdischen Abwasseranlagen ausgehen,die auf unterirdische Leitungen oder Behältnissen zurückzuführen sind, es sei denn,diese sind nach dem Stand der Technik doppelwandig bzw. als selbstsicherndeSaugleitung ausgeführt.
+-1:0.04866537889262261		0:0.8335540295094742		1:0.11778059159790315
+
+ Most similar to: Vertraglich übernommene gesetzliche Haftung
+------------------------------------------
+
+
+ List: [0.9983378241781616, 0.9995606490981899, 0.9997747919762696, 0.999386784983397, 0.9986209481942513, 0.9984882837402708, 0.9993070204921443, 0.999729269155712, 0.998855614717372, 0.9983613388874233, 0.9960644479771024, 0.9979998112530748, 0.9999637932266338, 0, 0.99993666787342, 0.9990777930662127, 0.9980067508195525, 0, 0.9999290794181389, 0.9993917789244691, 0.9990920438131493, 0.992112598493062, 0.9998943852860841, 0.9990282284583512, 0.9995834914180924, 0, 0.9985476409321064, 0.9987927686820753, 0.9964944474831934, 0.9996359289643375, 0, 0, 0, 0.9989759915788109]
+------------------------------------------
+
+======Category: Be- und Entladeschäden ==============
+
+11.34 Tätigkeitsschäden (auch Leitungsschäden und Be-/ Entladeschäden)
+11.34.1 Versichert ist - abweichend von Abschnitt I § 7 Ziffer 7.7 - die gesetzliche Haftpflicht we-gen Schäden an fremden Sachen und alle sich daraus ergebenden Vermögensschäden,wenn diese Schäden-durch eine betriebliche oder berufliche Tätigkeit des Versicherungsnehmers an die-sen Sachen entstanden sind.dadurch entstanden sind, dass der Versicherungsnehmer die Sachen zur Durchfüh-rung seiner betrieblichen oder beruflichen Tätigkeiten benutzt hat.durch eine betriebliche oder berufliche Tätigkeit des Versicherungsnehmers entstan-den sind und sich diese Sachen oder deren Teile im unmittelbaren Einwirkungsbe-reich der Tätigkeit befunden haben.--Die Regelungen des Abschnitts I § 1 Ziffer 1.2 und § 7 Ziffer 7.8 bleiben bestehen.Stand: 05/2017Gothaer GewerbeProtect Haftpflichtversicherung für betriebliche oder berufliche Risikenfür Handel, Gewerbe, Handwerk (ohne Bauhauptgewerbe und ohne Kfz-Handel und Werkstätten)Seite 22
+-1:9.624307228058543e-05		0:0.0026519518361192767		1:0.9972518050916002
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9981064577063582, 0.9907638502949168, 0.9935667882844359, 0.99652175615049, 0.9976789812346302, 0.9978943020531282, 0.9892217310840498, 0.9953584777137671, 0.9971487001113818, 0.9979884442973834, 0.9994100799639247, 0.9985273912760467, 0.9935548028138168, 0, 0.9940690479820277, 0.9962197197382301, 0.9983504121804629, 0, 0.9919407999769349, 0.9959194401857501, 0.9966217040076056, 0.9999000739792054, 0.9942421834085097, 0.997105860968305, 0.9895961540303331, 0, 0.9976997617367416, 0.989169196828375, 0.9803492099668268, 0.9957021893622022, 0, 0, 0, 0.9972900421918613]
+------------------------------------------
+Ladungsfähige Anschrift
+HausanschriftGothaer Allee 1, 50969 KölnPostanschrift50598 Köln
+-1:0.04866537889262261		0:0.8335540295094742		1:0.11778059159790315
+
+ Most similar to: Belegschafts-und Besucherhabe
+------------------------------------------
+
+
+ List: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+------------------------------------------
+
+======Category: Vertraglich übernommene gesetzliche Haftung ==============
+
+11.37 Vertraglich übernommene Haftpflicht
+Versichert ist - abweichend von Abschnitt I § 7 Ziffer 7.3 - die vom Versicherungsnehmer
+-1:9.624307228058543e-05		0:0.0026519518361192767		1:0.9972518050916002
+
+ Most similar to: Internet-Technologien
+------------------------------------------
+
+
+ List: [0.987896891033971, 0.9967609344241413, 0.9947275987004396, 0.990826454280589, 0.9891310297488255, 0.9886906056655107, 0.9973583238567693, 0.9922459888644409, 0.989183046029278, 0.9882692277292822, 0.9831665601400443, 0.9870830334577483, 0.9938848285137292, 0, 0.9938364520931504, 0.9919644658738168, 0.9869233261406608, 0, 0.9950366364641965, 0.9922035861634079, 0.9912699734596658, 0.9759652027766896, 0.9933668964059442, 0.98959049780971, 0.996605219890936, 0, 0.9886844702055825, 0.9976363198940893, 0.9988424887011247, 0.9916810269662011, 0, 0, 0, 0.989877520758358]
+------------------------------------------
+
+======Category: Deckungssumme (Personen- Sach- Vermögensschäden) ==============
+
+
+======Category: Asbestschäden ==============
+
+7.11
+7.12Haftpflichtansprüche wegen Schäden, die auf Asbest, asbesthaltige Substanzen oder Erzeugnis-se zurückzuführen sind.Haftpflichtansprüche wegen Schäden, die in unmittelbarem oder mittelbarem Zusammenhang ste-hen mit energiereichen ionisierenden Strahlen (z.B. Strahlen von radioaktiven Stoffen oder Rönt-genstrahlen).
+-1:0.04866537889262261		0:0.8335540295094742		1:0.11778059159790315
+
+ Most similar to: Internet-Technologien
+------------------------------------------
+
+
+ List: [0.992492790928107, 0.9983155184893958, 0.9971420278400046, 0.9949957566877835, 0.9930801576092178, 0.9927693738542934, 0.9988157297837931, 0.9961670252287511, 0.9937910621574317, 0.9925116968586253, 0.9881701588510988, 0.9917743787477534, 0.9976032439715682, 0, 0.9971916450874133, 0.9945487740689182, 0.9918266862744289, 0, 0.9984479292217587, 0.9952842170714553, 0.994294033457635, 0.9818710042564386, 0.9970260809632178, 0.9941110928172249, 0.9991510954675185, 0, 0.992957332685277, 0.9979507361206322, 0.9994770690340876, 0.9958329689611691, 0, 0, 0, 0.9938903359954618]
+------------------------------------------
+
+======Category: Umweltschadensversicherung ==============
+
+Abschnitt IV Umweltschadensversicherung (USV)
+§ 1 Gegenstand der Versicherung§ 2 Versicherte Risiken§ 3 Betriebsstörung§ 4 Leistungen der Versicherung§ 5 Versicherte Kosten§ 6 Versicherungsfall§ 7 Aufwendungen vor Eintritt des Versicherungsfalles§ 8 Nicht versicherte Tatbestände§ 9 Serienschäden§ 10 Nachhaftung§ 11 Versicherungsfälle im Ausland§ 12 Kündigung nach Versicherungsfall§ 13 Obliegenheiten bei unmittelbarer Gefahr eines Umweltschadens und nach Eintritt eines solchen555567710101111111112131314141414141414151525282829293031313132323334343435363737373838Stand: 05/2017Gothaer GewerbeProtect Haftpflichtversicherung für betriebliche oder berufliche Risikenfür Handel, Gewerbe, Handwerk (ohne Bauhauptgewerbe und ohne Kfz-Handel und Werkstätten)Seite 2
+-1:0.3013519257837935		0:0.69144653467156		1:0.007201539544646513
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9857143054125663, 0.9703623870944779, 0.9755545332464226, 0.9817131710012699, 0.9845826146568982, 0.9851419715431243, 0.9676386577011724, 0.9791797375847702, 0.9834690662489237, 0.9854502513545047, 0.9903083550767894, 0.9868036420412156, 0.9755091974679042, 0, 0.9764816174480994, 0.9812492652643708, 0.9865283684255115, 0, 0.9724435923213584, 0.9804385677094309, 0.9820831986988182, 0.9949091276111537, 0.9768891568083862, 0.9832008110009435, 0.9682304863074176, 0, 0.9847498131787662, 0.9678918694701332, 0.9532771013968965, 0.9799381910028334, 0, 0, 0, 0.9835372403384871]
+------------------------------------------
+Abschnitt IV Umweltschadensversicherung (USV)
+§ 1Gegenstand der Versicherung1.11.21.32.12.2§ 2Versicherte RisikenVersichert ist - abweichend von Abschnitt I § 1 Ziffer 1.1 und § 7 Ziffer 7.10.1 - die gesetzlichePflicht öffentlich-rechtlichen Inhalts des Versicherungsnehmers gemäß Umweltschadensgesetzzur Sanierung von Umweltschäden. Umweltschaden ist eine---Schädigung von geschützten Arten und natürlichen Lebensräumen,Schädigung der Gewässer,Schädigung des Bodens.Versicherungsschutz besteht auch dann, wenn der Versicherungsnehmer von einer Behörde odereinem sonstigen Dritten auf Erstattung der Kosten für Sanierungsmaßnahmen/Pflichten der obengenannten Art in Anspruch genommen wird. Dabei kommt es nicht darauf an, ob der Versiche-rungsnehmer auf öffentlich-rechtlicher oder privatrechtlicher Grundlage in Anspruch genommenwird.Ausgenommen vom Versicherungsschutz bleiben jedoch solche gegen den Versicherungsneh-mer gerichteten Ansprüche, die auch ohne das Bestehen des Umweltschadensgesetzes oder an-derer auf der EU-Umwelthaftungsrichtlinie (2004/35/EG) basierender nationaler Umsetzungsge-setze bereits aufgrund gesetzlicher Haftpflichtbestimmungen privatrechtlichen Inhalts gegen denVersicherungsnehmer geltend gemacht werden könnten.Versichert sind Kosten gemäß Abschnitt IV § 5 zur Sanierung von Umweltschäden, die im Zu-sammenhang mit der im Versicherungsschein beschriebenen Tätigkeit stehen, soweit diese nichtvon Anlagen oder Tätigkeiten ausgehen, die gemäß Ziffer 2.3 ausgeschlossen sind.Versichert sind darüber hinaus Kosten zur Sanierung von Umweltschäden verursacht durch fol-gende Anlagen und Tätigkeiten:
+-1:0.8845240749005414		0:0.10623669942343557		1:0.009239225676023144
+
+ Most similar to: Mangelbeseitigungsnebenkosten
+------------------------------------------
+
+
+ List: [0.9999594540465513, 0.9974644628488097, 0.9987857969681422, 0.9998479746344036, 0.9999571828770157, 0.9999836547216601, 0.9965725955745733, 0.9995538027046377, 0.999922966919724, 0.999974211091651, 0.9993022472767459, 0.9998885718185789, 0.9988419620880665, 0, 0.9990852617490529, 0.999585547701666, 0.9999033093997913, 0, 0.9981003173612963, 0.9995975115299137, 0.9997923988125811, 0.9972128708861803, 0.9991625901564046, 0.9999375287933628, 0.9969178700159248, 0, 0.999980123916185, 0.9963313129349985, 0.9910697677004201, 0.9996512087166021, 0, 0, 0, 0.999972340287971]
+------------------------------------------
+§ 12
+Kündigung nachVersicherungsfall§ 13Obliegenheiten beiunmittelbarer Gefahr einesUmweltschadens und nachEintritt eines solchen13.3Der Versicherungsnehmer muss nach Möglichkeit für die Abwendung und Minderung des Scha-dens sorgen. Weisungen des Versicherers sind zu befolgen, soweit es für den Versicherungs-nehmer zumutbar ist. Er hat dem Versicherer ausführliche und wahrheitsgemäße Schadenberich-te zu erstatten und ihn bei der Schadenermittlung und -regulierung zu unterstützen. Alle Umstän-Stand: 05/2017Gothaer GewerbeProtect Haftpflichtversicherung für betriebliche oder berufliche Risikenfür Handel, Gewerbe, Handwerk (ohne Bauhauptgewerbe und ohne Kfz-Handel und Werkstätten)Seite 38
+-1:0.0522768520100175		0:0.757016746860653		1:0.19070640112932935
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9895626396865647, 0.9760671569378077, 0.980715141488897, 0.9861126861760889, 0.9886118852058323, 0.9890874436777709, 0.9736208039905894, 0.9838799773550244, 0.9875890715389792, 0.9893399961546501, 0.9934155030322616, 0.9905054115770218, 0.980628265961933, 0, 0.9815135356157509, 0.9857220350760405, 0.9902401612141042, 0, 0.9778929127960949, 0.9850136737354707, 0.986446035587694, 0.9970823237210016, 0.9818542919602389, 0.9873774277082055, 0.9741148129062288, 0, 0.9887237329610707, 0.9738202261617405, 0.9604784356480863, 0.9845431033668213, 0, 0, 0, 0.987704664585591]
+------------------------------------------
+
+======Category: Bauherrenhaftpflicht ==============
+
+Nebenrisiken
+Versichert ist die gesetzliche Haftpflicht aus allen Nebenrisiken (z.B. aus Haus- und Grundbesitz,der Tätigkeit als Bauherr, der Teilnahme an Veranstaltungen und Messen, Geschäftsreisen, derDurchführung von Betriebsveranstaltungen, Schulungen).
+-1:9.624307228058543e-05		0:0.0026519518361192767		1:0.9972518050916002
+
+ Most similar to: Internet-Technologien
+------------------------------------------
+
+
+ List: [0.9887922180730161, 0.9971302225270984, 0.9953853595216646, 0.9915059683462106, 0.9898800546232084, 0.9894951378138755, 0.9977461200994306, 0.9927923056587404, 0.9898635022882633, 0.9890824348643756, 0.9842523223252606, 0.9880854062866554, 0.9944226799064059, 0, 0.9943437374205837, 0.992918317164841, 0.9877433591304887, 0, 0.9954598081795285, 0.9931218115010187, 0.9917698665988354, 0.977439660037796, 0.993776118622301, 0.9902880826331218, 0.9969283909091963, 0, 0.9894154043441227, 0.9982879773368574, 0.9989275645821012, 0.9922233258070977, 0, 0, 0, 0.9906329731350444]
+------------------------------------------
+
+======Category: Verwahrrisiko Gastronomien ==============
+
+
+======Category: Medienverluste ==============
+
+11.26 Medienverluste
+Versichert ist - in Ergänzung von Abschnitt I § 1 und § 2 - die gesetzliche Haftpflicht wegen Aus-tretens oder Verlustes von Flüssigkeiten oder Gasen aufgrund vom Versicherungsnehmer man-gelhaft durchgeführter Installations-, Reparatur- oder Wartungsarbeiten von Anlagen, Anlagentei-len, Rohrleitungen und Behältern. Diese Schäden gelten als Sachschäden.Ersetzt wird ausschließlich der Wiederbeschaffungswert der abhanden gekommenen Flüssigkei-ten oder Gase.
+-1:9.624307228058543e-05		0:0.0026519518361192767		1:0.9972518050916002
+
+ Most similar to: Medienverluste
+------------------------------------------
+
+
+ List: [0.9976778521673856, 0.9996338456082096, 0.9996267602779425, 0.9989598416400808, 0.9979850469639999, 0.99784363652737, 0.9994779236646057, 0.9994554889418434, 0.9983486406450175, 0.9976984257686222, 0.9950776821461653, 0.9972774662825031, 0.9998922541533241, 0, 0.9997776926387978, 0.9986558942059389, 0.9973030804084082, 0, 0.9999997364073868, 0.9990305080928902, 0.9985729271697106, 0.9907494912814065, 0.999725502190112, 0.998533889831637, 0.9998121690775976, 0, 0.9979348550613634, 0.9989756120317369, 0.9972748312424546, 0.999306005030084, 0, 0, 0, 0.9984426835490597]
+------------------------------------------
+
+======Category: Datenverlust ==============
+
+11.24 Löschung und Abhandenkommen fremder Daten
+Versichert ist - abweichend von Abschnitt I § 2 Ziffer 2.2 und § 7 Ziffer 7.7 - die gesetzliche Haft-pflicht aus Schäden durch versehentliche Datenlöschung, Änderung der Datenstruktur und Ab-handenkommen von Daten (z.B. Datenverluste durch vorzeitige Freigabe von Bändern, Fehlver-sand bei Datenträgertausch) einschließlich aller hieraus resultierenden unmittelbaren Folgeschä-den.Schäden durch Löschung und Abhandenkommen von Daten gelten als Sachschäden.Die Ausschlussbestimmungen des Abschnitts I § 1 Ziffer 1.2 und § 7 Ziffer 7.8 bleiben bestehen.
+-1:9.624307228058543e-05		0:0.0026519518361192767		1:0.9972518050916002
+
+ Most similar to: Datenverlust
+------------------------------------------
+
+
+ List: [0.9994106514737032, 0.998983468867736, 0.9997371910875332, 0.9998009993446282, 0.9996187696833765, 0.9995408214823516, 0.9983893471077935, 0.999772420244111, 0.9995331213818582, 0.9994649632265477, 0.9980128562780424, 0.9992080324714351, 0.9995201783368735, 0, 0.9997242546822153, 0.9999330116871582, 0.9991146289066271, 0, 0.999092460873158, 0.9999895468768177, 0.9998188842758876, 0.995046012734817, 0.9996232273702154, 0.9996234605823674, 0.9984494086282028, 0, 0.9995146651739968, 0.998314404339024, 0.9940821816514092, 0.999755979565177, 0, 0, 0, 0.999737587367639]
+------------------------------------------
+
+======Category: Vorsorgeversicherung ==============
+
+Inhaltsverzeichnis
+ProduktinformationsblattProduktbezogene Bedingungen Haftpflichtversicherung für betriebliche oder berufliche RisikenAbschnitt I Allgemeine Bestimmungen§ 1 Gegenstand der Versicherung, Versicherungsfall§ 2 Vermögensschaden, Abhandenkommen von Sachen§ 3 Versichertes Risiko§ 4 Vorsorgeversicherung§ 5 Leistungen der Versicherung§ 6 Begrenzung der Leistungen§ 7 Ausschlüsse§ 8 Meldeverfahren und Beitragsregulierung§ 9 Kündigung nach Versicherungsfall§ 10 Kündigung nach Risikoerhöhung aufgrund Änderung oder Erlass von Rechtsvorschriften§ 11 Mehrfachversicherung§ 12 Obliegenheiten vor, bei und nach Eintritt des Versicherungsfalles§ 13 Mitversicherte Personen§ 14 Abtretungsverbot
+-1:7.872815480801783e-05		0:0.9979145393207627		1:0.002006732524429262
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9946213925547227, 0.9839753113204315, 0.9877531614386131, 0.9921082916775587, 0.9938773323261569, 0.9942004603744261, 0.982016164133339, 0.9904032188192627, 0.9931776745377202, 0.9944164775670138, 0.9971953531179394, 0.9953063291116001, 0.9878855054618862, 0, 0.9885330546017991, 0.9915418472168968, 0.9951276165759213, 0, 0.9857085764219642, 0.9911037455744461, 0.9922300111982895, 0.9992588211410763, 0.988831137940803, 0.993065889294582, 0.9825621420780152, 0, 0.9939665638805026, 0.9818933165887652, 0.9709928597318155, 0.9909349264130702, 0, 0, 0, 0.9932348742519328]
+------------------------------------------
+3.1.1
+3.1.2aus den im Versicherungsschein und seinen Nachträgen angegebenen Risiken des Ver-sicherungsnehmers,aus Erhöhungen oder Erweiterungen der im Versicherungsschein und seinen Nachträgenangegebenen Risiken. Dies gilt nicht für Risiken aus dem Halten oder Gebrauch von ver-sicherungspflichtigen Kraft-, Luft- oder Wasserfahrzeugen sowie für sonstige Risiken, dieder Versicherungs- oder Deckungsvorsorgepflicht unterliegen,
+-1:0.04866537889262261		0:0.8335540295094742		1:0.11778059159790315
+
+ Most similar to: Leitungsschäden
+------------------------------------------
+
+
+ List: [0.999482303321118, 0.998506578437879, 0.999357937191526, 0.9999199803178345, 0.9995390361226206, 0.999513468925093, 0.997912115560083, 0.9999395431701775, 0.9997357806579705, 0.999457558665249, 0.9980535379191311, 0.9993058152665112, 0.9996867215592511, 0, 0.9997259458713715, 0.9994388556470287, 0.9993468593645555, 0, 0.9992777999197309, 0.9996510489557061, 0.9996053553274198, 0.9951409790994437, 0.9998020755318172, 0.9998326397449052, 0.9983852818444029, 0, 0.9995618602553834, 0.9974330814866355, 0.9937267142451137, 0.9999485060736472, 0, 0, 0, 0.9997602777619436]
+------------------------------------------
+3.1.3
+aus Risiken, die für den Versicherungsnehmer nach Abschluss der Versicherung neuentstehen (Vorsorgeversicherung) und die in Abschnitt I § 4 näher geregelt sind.Der Versicherungsschutz erstreckt sich auch auf Erhöhungen des versicherten Risikos durch Än-derung bestehender oder Erlass neuer Rechtsvorschriften. Der Versicherer kann den Vertrag je-doch unter den Voraussetzungen von Abschnitt I § 9 kündigen.Risiken, die nach Abschluss des Versicherungsvertrages neu entstehen, sind im Rahmen des be-stehenden Vertrages sofort versichert.
+-1:0.012459339828037616		0:0.5503427245809092		1:0.43719793559105313
+
+ Most similar to: Nachbesserungsbegleitschäden
+------------------------------------------
+
+
+ List: [0.9999205336145194, 0.9977601216069621, 0.9989820419455564, 0.9999161991726697, 0.9999436438354182, 0.9999447633693636, 0.9969406376391022, 0.9996771610624448, 0.9999253742931713, 0.999933874418257, 0.9991119856228478, 0.999828481407416, 0.9990537134751244, 0, 0.9992719394625202, 0.9996325176796265, 0.9998392953864716, 0, 0.9983802879361521, 0.9996766811750605, 0.9998508081013647, 0.9968407665875719, 0.9993421993293399, 0.9999662835218565, 0.9972682790269625, 0, 0.9999517139405167, 0.9966495907661932, 0.9916757528293337, 0.9997638109330591, 0, 0, 0, 0.99998469218695]
+------------------------------------------
+§ 2
+Vermögensschaden,Abhandenkommen vonSachen§ 3Versichertes Risiko§ 4VorsorgeversicherungStand: 05/2017Gothaer GewerbeProtect Haftpflichtversicherung für betriebliche oder berufliche Risikenfür Handel, Gewerbe, Handwerk (ohne Bauhauptgewerbe und ohne Kfz-Handel und Werkstätten)Seite 5Page 23</a>tragsrechnung erfolgen. Unterlässt der Versicherungsnehmer die rechtzeitige Anzeige,entfällt der Versicherungsschutz für das neue Risiko rückwirkend ab dessen Entstehung.Tritt der Versicherungsfall ein, bevor das neue Risiko angezeigt wurde, so hat der Versi-cherungsnehmer zu beweisen, dass das neue Risiko erst nach Abschluss der Versiche-rung und zu einem Zeitpunkt hinzugekommen ist, zu dem die Anzeigefrist noch nicht ver-strichen war.
+-1:0.024671401128559912		0:0.5883899149415062		1:0.38693868392993397
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9887723060314103, 0.9748348990902673, 0.9796041686918683, 0.9851877208869544, 0.9877873266251407, 0.9882910351275721, 0.9722780812142097, 0.9828996173309025, 0.9867921584078397, 0.988569959004573, 0.9928363836621779, 0.9897170115718731, 0.9795170926916801, 0, 0.9804339352746169, 0.9847954599561468, 0.9895034358194791, 0, 0.9766947237229511, 0.9840454248636566, 0.985551310500196, 0.9966835193566388, 0.9808123666468564, 0.9865298407751919, 0.972825266722538, 0, 0.9879500570720023, 0.9725337637884359, 0.9588361777016393, 0.98358098048015, 0, 0, 0, 0.9868450308299314]
+------------------------------------------
+11.38 Vorsorgeversicherung
+Für Risiken, die für den Versicherungsnehmer nach Abschluss der Versicherung neu entstehen,besteht - abweichend von Abschnitt I § 4 Ziffer 4.2 - im Rahmen der Deckungssummen des Ver-trages Versicherungsschutz.
+-1:0.00010766849953063969		0:0.0014064915310296328		1:0.9984858399694396
+
+ Most similar to: Vorsorgeversicherung
+------------------------------------------
+
+
+ List: [0.9996365449687172, 0.9983691563346592, 0.9993212837119141, 0.9998183401755015, 0.9998180225329202, 0.9997822358647709, 0.9976126902583744, 0.9996849167572558, 0.9997052640666318, 0.9997330420808287, 0.9986283629667986, 0.9994946386069677, 0.9991571529451223, 0, 0.9994337132700163, 0.9998117284491154, 0.9994925815831918, 0, 0.9986049031145048, 0.9997762563304258, 0.9999999999999998, 0.9960030397981275, 0.9994574670738989, 0.9997760263762778, 0.9977269465143248, 0, 0.9997671248614438, 0.9974996286862801, 0.99271035312948, 0.9997162997631424, 0, 0, 0, 0.999875261011781]
+------------------------------------------
+
+======Category: Bedingungsupdate ==============
+
+Versicherungsbedingungen zur Gothaer GewerbeProtect
+Teil A - Allgemeiner Teil der Versicherungsbedingungen§ 1 Vertragsgrundlagen, rechtlich selbstständige Verträge§ 2 Beitragszahlung, wie setzt sich der Beitrag zusammen§ 3 Verrechnungsklausel§ 4 Beginn des Versicherungsschutzes§ 5 Beitragszahlung, Versicherungsperiode§ 6 Fälligkeit der Erst- oder Einmalbeitrags, Folgen verspäteter Zahlung oder Nichtzahlung§ 7 Folgebeitrag§ 8 Lastschriftverfahren§ 9 Beitrag bei vorzeitiger Vertragsbeendigung§ 10 Dauer und Ende der Verträge§ 11 Wegfall des versicherten Interesses§ 12 Selbstbeteiligung im Versicherungsfall§ 13 Kündigung nach dem Versicherungsfall§ 14 Veräußerung und deren Rechtsfolgen§ 15 Anzeigepflichten des Versicherungsnehmers oder seines Vertreters bis zum Vertragsschluss§ 16 Obliegenheiten des Versicherungsnehmers während der Vertragslaufzeit§ 17 Erklärungen und Anzeigen, Anschriftenänderung§ 18 Verjährung§ 19 Örtlich zuständiges Gericht§ 20 Anzuwendendes Recht§ 21 Embargobestimmung§ 22 Repräsentanten§ 23 Beitragsanpassungsklausel und Sonderkündigungsrecht bei Beitragsanpassung§ 24 Innovationsklausel§ 25 Rückwärtige Bedingungsdifferenzdeckung§ 26 Meldeverfahren, Beitragsregulierung
+-1:0.16596938289114785		0:0.3468478251942706		1:0.4871827919145815
+
+ Most similar to: Bauherrenhaftpflicht
+------------------------------------------
+
+
+ List: [0.9999326409270539, 0.9966872307770536, 0.9982263636167298, 0.999680390274536, 0.9998031910954933, 0.9998393314337605, 0.9957752977885672, 0.9992904206779588, 0.9998188989177625, 0.9998693685189206, 0.9994359388798717, 0.9999172396141787, 0.9985063197407247, 0, 0.9986951815140233, 0.9991467772723649, 0.9999471252351398, 0, 0.9976762883339494, 0.9992246242650051, 0.9994565933972088, 0.9976302523494552, 0.9988167107571106, 0.9998404704283804, 0.9962739158135824, 0, 0.999852418617059, 0.9953314742403353, 0.989963232840042, 0.9994412560828589, 0, 0, 0, 0.9998031262933927]
+------------------------------------------
+§ 24
+Innovationsklausel§ 25RückwärtigeBedingungsdifferenzdeckung23.623.7schutzes, kann der Versicherer für die bestehenden Verträge höchstens die Beiträge für neu ab-zuschließende Verträge verlangen.
+-1:0.0522768520100175		0:0.757016746860653		1:0.19070640112932935
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9972359799990655, 0.9888351995610268, 0.9919225966070299, 0.9953261276596911, 0.9967242262635025, 0.9969861317785936, 0.9870178047621542, 0.9940274130013841, 0.9963366452104189, 0.9971930898368959, 0.9990547570878677, 0.9975811873622996, 0.9918931394361609, 0, 0.9925087343698481, 0.994979306164036, 0.9976096160545402, 0, 0.9900578336973717, 0.9946013356228918, 0.9955116305116757, 0.9998579815211842, 0.9927649839014456, 0.9961146517448749, 0.9875371440320919, 0, 0.9969100081493848, 0.9870346951450861, 0.9773798130214104, 0.9944460198805256, 0, 0, 0, 0.9962260086428721]
+------------------------------------------
+Teil B - Produktbezogene Bedingungen für die Gothaer GewerbeProtect
+7777788991010101011111314141414141515161616Der Teil A Allgemeiner Teil der Versicherungsbedingungen bildet mit dem Teil B Produktbezogene Bedingungen die Vertragsgrundlagen fürden jeweils rechtlich selbstständigen Vertrag der Gothaer GewerbeProtect.Stand: 05/2017Gothaer GewerbeProtect Kundeninformationen und VersicherungsbedingungenSeite 6
+-1:0.16596938289114785		0:0.3468478251942706		1:0.4871827919145815
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9959388954742009, 0.9864623245306945, 0.989901295696203, 0.9936529317904689, 0.9953623238301955, 0.9956394671295274, 0.9845171178611735, 0.9921096084228174, 0.9947173621621771, 0.9958545737132354, 0.9982271338510024, 0.996425492378459, 0.9897271991349113, 0, 0.9904438065995763, 0.9934371179622055, 0.99633386072022, 0, 0.9876773214076124, 0.9929493454540972, 0.993935001995933, 0.9997099530761686, 0.9906598574610649, 0.9945128603289385, 0.9849118753323425, 0, 0.9954698934437043, 0.9846562554721032, 0.9740173795412669, 0.9925832874088567, 0, 0, 0, 0.9947267077439983]
+------------------------------------------
+Teil B
+Produktbezogene Bedingungen für die Gothaer GewerbeProtectHaftpflichtversicherung für betriebliche oder berufliche Risikenfür Handel, Gewerbe, Handwerk (ohne Bauhauptgewerbe und ohneKfz-Handel und Kfz-Werkstätten)(Stand 05/2017)710250/-692612
+-1:0.04866537889262261		0:0.8335540295094742		1:0.11778059159790315
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9508014197161021, 0.9253553136325291, 0.9336152081564155, 0.9437282841318705, 0.9487986281139942, 0.949753049312455, 0.9213049129321268, 0.9393759952878589, 0.9466174563228761, 0.9502622096966867, 0.9595366985312372, 0.9529376257887594, 0.9334310784393347, 0, 0.9349650673979752, 0.9431778611535657, 0.9522602916432875, 0, 0.9285599203968862, 0.9417062785677971, 0.9444286759863278, 0.9696288214676109, 0.9355753142190232, 0.9462384357577882, 0.9219367910757056, 0, 0.9489398653514605, 0.9219479221029879, 0.9000366266596211, 0.9406408253115057, 0, 0, 0, 0.9469024212325757]
+------------------------------------------
+Inhaltsverzeichnis
+ProduktinformationsblattProduktbezogene Bedingungen Haftpflichtversicherung für betriebliche oder berufliche RisikenAbschnitt I Allgemeine Bestimmungen§ 1 Gegenstand der Versicherung, Versicherungsfall§ 2 Vermögensschaden, Abhandenkommen von Sachen§ 3 Versichertes Risiko§ 4 Vorsorgeversicherung§ 5 Leistungen der Versicherung§ 6 Begrenzung der Leistungen§ 7 Ausschlüsse§ 8 Meldeverfahren und Beitragsregulierung§ 9 Kündigung nach Versicherungsfall§ 10 Kündigung nach Risikoerhöhung aufgrund Änderung oder Erlass von Rechtsvorschriften§ 11 Mehrfachversicherung§ 12 Obliegenheiten vor, bei und nach Eintritt des Versicherungsfalles§ 13 Mitversicherte Personen§ 14 Abtretungsverbot
+-1:7.872815480801783e-05		0:0.9979145393207627		1:0.002006732524429262
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9946213925547227, 0.9839753113204315, 0.9877531614386131, 0.9921082916775587, 0.9938773323261569, 0.9942004603744261, 0.982016164133339, 0.9904032188192627, 0.9931776745377202, 0.9944164775670138, 0.9971953531179394, 0.9953063291116001, 0.9878855054618862, 0, 0.9885330546017991, 0.9915418472168968, 0.9951276165759213, 0, 0.9857085764219642, 0.9911037455744461, 0.9922300111982895, 0.9992588211410763, 0.988831137940803, 0.993065889294582, 0.9825621420780152, 0, 0.9939665638805026, 0.9818933165887652, 0.9709928597318155, 0.9909349264130702, 0, 0, 0, 0.9932348742519328]
+------------------------------------------
+Produktbezogene Bedingungen
+HaftpflichtversicherungAbschnitt I Allgemeine Bestimmungen§ 1Gegenstand der Versicherung,Versicherungsfall1.1Versicherungsschutz besteht im Rahmen des versicherten Risikos für den Fall, dass der Versi-cherungsnehmer wegen eines während der Wirksamkeit der Versicherung eingetretenen Schade-nereignisses (Versicherungsfall), das einen Personen-, Sach- oder sich daraus ergebenden Ver-mögensschaden zur Folge hatte, aufgrundgesetzlicher Haftpflichtbestimmungen privatrechtlichen Inhaltsvon einem Dritten auf Schadensersatz in Anspruch genommen wird. Schadenereignis ist das Er-eignis, als dessen Folge die Schädigung des Dritten unmittelbar entstanden ist. Auf den Zeitpunktder Schadenverursachung, die zum Schadenereignis geführt hat, kommt es nicht an.
+-1:0.0008397701019142881		0:0.26544386773785605		1:0.7337163621602295
+
+ Most similar to: Aktive Werklohnklage
+------------------------------------------
+
+
+ List: [0.9998816325833914, 0.9977824714590875, 0.998974228024875, 0.9999100245054643, 0.999882526453357, 0.9998954559492477, 0.9969374667990699, 0.999712633386578, 0.9999880244469201, 0.9999009064152088, 0.9990234002269633, 0.9997292296867929, 0.9991074735458522, 0, 0.9993025428109441, 0.9995608858571565, 0.999807451038415, 0, 0.9984465038306196, 0.9996404774228791, 0.999773475382294, 0.9966497966456093, 0.9993937692933249, 0.9999789676150432, 0.9973647313969236, 0, 0.9999537444342669, 0.9966206993825969, 0.9917862923064157, 0.9997997039175449, 0, 0, 0, 0.9999473725798155]
+------------------------------------------
+
+======Category: Hub- und Gabelstapler, selbstfahrende Arbeitsmaschinen, KFZ bis 6 km/h (nicht vers.-pflichtige) ==============
+
+3.2
+Falls danach ein Restbetrag verbleibt oder kein Zahlungsrückstand im Sinne der §§ 37, 38 VVGbesteht, erfolgt die Verrechnung derartiger Zahlungen in folgender Reihenfolge:1. Haftpflichtversicherung für betriebliche und berufliche Risiken2. Gebäudeversicherung - Feuer3. Gebäudeversicherung - Leitungswasser4. Gebäudeversicherung - Elementar5. Gebäudeversicherung - Sturm, Hagel6. Gebäudeversicherung - Glasbruch7. Gebäudeversicherung - Unbenannte Gefahren8. Gebäudeversicherung - Erweiterte Deckung9.10.11.12.13.14.15.16.17. Versicherung für stationäre und transportable Maschinen18. Versicherung für selbstfahrende und fahrbare Geräte19. Elektronikversicherung20. Photovoltaikversicherung21. Betriebsschließungsversicherung22. Werkverkehrsversicherung23. Haftpflichtversicherung für private RisikenInhaltsversicherung - FeuerInhaltsversicherung - LeitungswasserInhaltsversicherung - ElementarInhaltsversicherung - Sturm, HagelInhaltsversicherung - EinbruchdiebstahlInhaltsversicherung - GlasInhaltsversicherung - Unbenannte GefahrenInhaltsversicherung - Erweiterte Deckung
+-1:0.0008397701019142881		0:0.26544386773785605		1:0.7337163621602295
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9866888088841189, 0.971788872082818, 0.9768665301084225, 0.982833551937838, 0.9855866843936278, 0.9860797762862716, 0.9691996927661408, 0.9803545120870901, 0.9844504647085175, 0.9863953852836427, 0.9910529349123104, 0.9877705181969325, 0.9768350641826562, 0, 0.9777636922022334, 0.982351179820198, 0.9874411728632081, 0, 0.9738624461778798, 0.981599630264539, 0.9831464880413755, 0.995408833817194, 0.9781276720070741, 0.9842400336143688, 0.969745597085745, 0, 0.9856928018099729, 0.9693621072816857, 0.9551587731290545, 0.9811005232031715, 0, 0, 0, 0.9845591718485486]
+------------------------------------------
+11.27.1.4 an nicht zulassungs- und/oder nicht versicherungspflichtigen
+- Selbstfahrenden Arbeitsmaschinen,- Staplern,die der Versicherungsnehmer - von Vermietern, die dies nicht gewerbsmäßigbetreiben - gemietet oder geliehen hat (abweichend von Abschnitt II § 12Ziffer 12.12). Sofern Versicherungsschutz durch andere Versicherungen be-steht, geht dieser vor.Ausgeschlossen bleiben Haftpflichtansprüche aus Folgeschäden (wie z.B.Nutzungsausfall, Abhandenkommen von Sachen).
+-1:0.024671401128559912		0:0.5883899149415062		1:0.38693868392993397
+
+ Most similar to: Asbestschäden
+------------------------------------------
+
+
+ List: [0.9984679703392452, 0.9996130271630351, 0.9998373534419346, 0.9994494880038483, 0.9987734620094045, 0.9986668260763799, 0.9992551429398774, 0.9997922196098673, 0.998998397608432, 0.9985441818459554, 0.9963228011725002, 0.9981274083913129, 0.9999324387838676, 0, 0.9999537611674674, 0.9992736540556624, 0.9981572173422109, 0, 0.9998599501749211, 0.999508874972917, 0.9992803600968996, 0.9924304855742374, 0.9999448169599017, 0.9991387201330009, 0.9995114625744745, 0, 0.9987338009791114, 0.998911614935436, 0.9963068188611307, 0.99968380168278, 0, 0, 0, 0.9991104813750742]
+------------------------------------------
+Informationen zur
+Versicherungsleistung undzum GesamtbeitragDie Die wesentlichen Merkmale der Versicherung wie Art, Umfang, Fälligkeit und Erfüllung der Versiche-rungsleistungen sowie den
+-1:0.00497433868515407		0:0.44041245145655433		1:0.5546132098582917
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.992925104669949, 0.981451531963281, 0.9855366387774739, 0.9900230631077988, 0.9921859966940104, 0.9924952114953243, 0.9793413676134328, 0.9880505151158652, 0.9911749824591619, 0.9927348567256209, 0.9959872417277853, 0.9936589201009786, 0.9852664174150322, 0, 0.9861020701719909, 0.989815220970196, 0.993391108024229, 0, 0.9828576217167381, 0.9892166378494965, 0.9903476807007355, 0.9986176958184079, 0.9862823110991691, 0.9910101772808628, 0.9796101460332082, 0, 0.9921795455764403, 0.9794842104517602, 0.9673917382798428, 0.9886437677491072, 0, 0, 0, 0.9913454511258042]
+------------------------------------------
+Vergleich mit Beiträgen von neuen Verträgen
+Sind die ermittelten Beiträge für bestehende Verträge höher als die Beiträge für neu abzuschlie-ßende Verträge und enthalten die Tarife für bestehende und für die neu abzuschließenden Verträ-ge die gleichen Beitragsberechnungsmerkmale und den gleichen Umfang des Versicherungs-Stand: 05/2017Gothaer GewerbeProtect Kundeninformationen und VersicherungsbedingungenSeite 15
+-1:0.04866537889262261		0:0.8335540295094742		1:0.11778059159790315
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9949650224810911, 0.984806786489028, 0.9884553188737779, 0.9924554090533161, 0.9943356249114437, 0.9946358964196946, 0.9827313098129884, 0.9907865280263953, 0.9936779755028995, 0.994888269312846, 0.9975646093395382, 0.9954549885274193, 0.9882294927051974, 0, 0.989007002203444, 0.9922775280593624, 0.995404879331268, 0, 0.9860325255633571, 0.9917379402365596, 0.9927640727260388, 0.9993560131526892, 0.9892186142525895, 0.993399197085593, 0.9831474101060803, 0, 0.9944792412055034, 0.9829380985159195, 0.9717204388649104, 0.9913022538937827, 0, 0, 0, 0.9936232761756795]
+------------------------------------------
+4.3.4
+die kürzer als ein Jahr bestehen werden und deshalb im Rahmen von kurzfristigen Versi-cherungsverträgen zu versichern sind.Die Regelung der Vorsorgeversicherung gilt bei privaten Haftpflichtversicherungen außerdemnicht für Risiken aus betrieblicher, dienstlicher und amtlicher Tätigkeit.Der Versicherungsschutz umfasst die Prüfung der Haftpflichtfrage, die Abwehr unberechtigterSchadensersatzansprüche und die Freistellung des Versicherungsnehmers von berechtigtenSchadensersatzverpflichtungen. Berechtigt sind Schadensersatzverpflichtungen dann, wenn derVersicherungsnehmer aufgrund Gesetzes, rechtskräftigen Urteils, Anerkenntnisses oder Verglei-ches zur Entschädigung verpflichtet und der Versicherer hierdurch gebunden ist. Anerkenntnisseund Vergleiche, die vom Versicherungsnehmer ohne Zustimmung des Versicherers abgegebenoder geschlossen worden sind, binden den Versicherer nur, soweit der Anspruch auch ohne Aner-kenntnis oder Vergleich bestanden hätte.Ist die Schadensersatzverpflichtung des Versicherungsnehmers mit bindender Wirkung für denVersicherer festgestellt, hat der Versicherer den Versicherungsnehmer binnen zwei Wochen vomAnspruch des Dritten freizustellen.Der Versicherer ist bevollmächtigt, alle ihm zur Abwicklung des Schadens oder Abwehr der Scha-densersatzansprüche zweckmäßig erscheinenden Erklärungen im Namen des Versicherungsneh-mers abzugeben.Kommt es in einem Versicherungsfall zu einem Rechtsstreit über Schadensersatzansprüche ge-gen den Versicherungsnehmer, ist der Versicherer zur Prozessführung bevollmächtigt. Er führtden Rechtsstreit im Namen des Versicherungsnehmers auf seine Kosten.Wird in einem Strafverfahren wegen eines Schadensereignisses, das einen unter den Versiche-rungsschutz fallenden Haftpflichtanspruch zur Folge haben kann, die Bestellung eines Verteidi-gers für den Versicherungsnehmer von dem Versicherer gewünscht oder genehmigt, so trägt derVersicherer die gebührenordnungsmäßigen oder die mit ihm besonders vereinbarten höherenKosten des Verteidigers.Erlangt der Versicherungsnehmer oder ein Mitversicherter das Recht, die Aufhebung oder Minde-rung einer zu zahlenden Rente zu fordern, so ist der Versicherer zur Ausübung dieses Rechts be-vollmächtigt.
+-1:0.0009904345942564898		0:0.9588843702623469		1:0.0401251951433968
+
+ Most similar to: Bauherrenhaftpflicht
+------------------------------------------
+
+
+ List: [0.9999455168021492, 0.9964371472039949, 0.9980493412225716, 0.9995760546843392, 0.9998113714889727, 0.9998953220558348, 0.995410597943909, 0.999145384958175, 0.9998103972081887, 0.9999193485918207, 0.9996306180120296, 0.9999437771241854, 0.9982397523425395, 0, 0.9984855645525517, 0.9991532711611679, 0.9999828295402373, 0, 0.9973395353625435, 0.9991577937770708, 0.9994430666632731, 0.9979976238612447, 0.9986231155712988, 0.9997895321287789, 0.9958972380847392, 0, 0.9998964165887929, 0.9951160175405123, 0.9893461523754395, 0.9992947113594133, 0, 0, 0, 0.999789042276274]
+------------------------------------------
+12.15 Rohrleitungen
+Vom Versicherungsschutz ausgeschlossen sind Haftpflichtansprüche aus Eigentum, Besitz undBetrieb von Rohrleitungen für Gas, Benzin, Öl, Ölprodukte oder sonstige gefährliche Produkte(ausgenommen Fernwärme), soweit die Leitungen außerhalb des versicherten Betriebes mehr als5 km lang sind.
+-1:0.9964447965984813		0:0.0017481576128785565		1:0.0018070457886401373
+
+ Most similar to: AGG-Deckung
+------------------------------------------
+
+
+ List: [0.9995922690398056, 0.9986339973505575, 0.9994996637682056, 0.9999722712866054, 0.9997091747808187, 0.9996610361685621, 0.9980292304428687, 0.9999344216733785, 0.9997588316952772, 0.9995965920468048, 0.998245822498529, 0.9994260374506893, 0.9996276544012767, 0, 0.9997514793060064, 0.9996614325073935, 0.9994224279456142, 0, 0.9991871039256933, 0.9998060254854845, 0.999797870251014, 0.9953985034809841, 0.9997747230610695, 0.9998592689102297, 0.9983363150944827, 0, 0.9996703376042044, 0.9976432921513975, 0.9936502082478652, 0.9999549266189309, 0, 0, 0, 0.9998641828163243]
+------------------------------------------
+4.2
+4.3Der Versicherer ist bevollmächtigt, alle ihm zur Abwicklung des Schadens oder der Abwehr unbe-rechtigter Inanspruchnahme durch die Behörde oder einen sonstigen Dritten zweckmäßig erschei-nenden Erklärungen im Namen des Versicherungsnehmers abzugeben.Kommt es in einem Versicherungsfall zu einem Verwaltungsverfahren oder Rechtsstreit über Sa-nierungs- oder Kostentragungsverpflichtungen gegen den Versicherungsnehmer, ist der Versi-cherer zur Verfahrens- und Prozessführung bevollmächtigt. Er führt das Verwaltungsverfahrenoder den Rechtsstreit im Namen des Versicherungsnehmers.Wird in einem Strafverfahren wegen eines Umweltschadens/Umweltdeliktes, der/das eine unterden Versicherungsschutz fallende Sanierungs- und Kostentragungsverpflichtung zur Folge habenkann, die Bestellung eines Verteidigers für den Versicherungsnehmer von dem Versicherer ge-wünscht oder genehmigt, so trägt der Versicherer die gebührenordnungsmäßigen oder die mit ihmbesonders vereinbarten höheren Kosten des Verteidigers.
+-1:0.005139054861056734		0:0.17113533500284706		1:0.8237256101360961
+
+ Most similar to: Sachschäden an geliehenen / gemieteten Arbeitsmaschinen
+------------------------------------------
+
+
+ List: [0.9991354925943479, 0.9987995145051209, 0.9994436734508501, 0.9997699375245682, 0.9992163222230673, 0.9991727933055541, 0.9982631203070229, 0.9999272738805672, 0.9995926631626172, 0.9991285790480724, 0.9974198770169321, 0.9988379017398649, 0.9998296765858548, 0, 0.9998195906664191, 0.9992400161021437, 0.9989556854122588, 0, 0.9995307700330035, 0.9995314545763506, 0.9993795181477665, 0.9940983413460956, 0.9998907036577341, 0.9996462339755365, 0.9988213566117841, 0, 0.9993001766198231, 0.997725928867612, 0.9945764988732521, 0.9999160826361696, 0, 0, 0, 0.9995008806425838]
+------------------------------------------
+
+======Category: Nachhaftung ==============
+
+Abschnitt III Umwelthaftpflichtversicherung (UHV)
+§ 1 Gegenstand der Versicherung§ 2 Versicherte Risiken§ 3 Versicherungsfall§ 4 Aufwendungen vor Eintritt des Versicherungsfalles§ 5 Nicht versicherte Tatbestände§ 6 Serienschäden§ 7 Nachhaftung§ 8 Versicherungsfälle im Ausland
+-1:0.3013519257837935		0:0.69144653467156		1:0.007201539544646513
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9973413508878975, 0.989446220048798, 0.9923941670771793, 0.9955120919377722, 0.9969066073950057, 0.9971868126725896, 0.9876569508597619, 0.9942729470545547, 0.9963667530023238, 0.997298500563117, 0.9990269097527685, 0.9977570481633239, 0.9922261770819399, 0, 0.9928481437041429, 0.995445923934755, 0.9976409936112433, 0, 0.9904597127323448, 0.9949929234471826, 0.9957890416476005, 0.9998241782439029, 0.9930525508736068, 0.9962191889071874, 0.9880364284645069, 0, 0.9970108401511385, 0.9879318941742208, 0.9782792339692238, 0.994610213328371, 0, 0, 0, 0.9964477036637134]
+------------------------------------------
+Abschnitt IV Umweltschadensversicherung (USV)
+§ 1 Gegenstand der Versicherung§ 2 Versicherte Risiken§ 3 Betriebsstörung§ 4 Leistungen der Versicherung§ 5 Versicherte Kosten§ 6 Versicherungsfall§ 7 Aufwendungen vor Eintritt des Versicherungsfalles§ 8 Nicht versicherte Tatbestände§ 9 Serienschäden§ 10 Nachhaftung§ 11 Versicherungsfälle im Ausland§ 12 Kündigung nach Versicherungsfall§ 13 Obliegenheiten bei unmittelbarer Gefahr eines Umweltschadens und nach Eintritt eines solchen555567710101111111112131314141414141414151525282829293031313132323334343435363737373838Stand: 05/2017Gothaer GewerbeProtect Haftpflichtversicherung für betriebliche oder berufliche Risikenfür Handel, Gewerbe, Handwerk (ohne Bauhauptgewerbe und ohne Kfz-Handel und Werkstätten)Seite 2
+-1:0.3013519257837935		0:0.69144653467156		1:0.007201539544646513
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9857143054125663, 0.9703623870944779, 0.9755545332464226, 0.9817131710012699, 0.9845826146568982, 0.9851419715431243, 0.9676386577011724, 0.9791797375847702, 0.9834690662489237, 0.9854502513545047, 0.9903083550767894, 0.9868036420412156, 0.9755091974679042, 0, 0.9764816174480994, 0.9812492652643708, 0.9865283684255115, 0, 0.9724435923213584, 0.9804385677094309, 0.9820831986988182, 0.9949091276111537, 0.9768891568083862, 0.9832008110009435, 0.9682304863074176, 0, 0.9847498131787662, 0.9678918694701332, 0.9532771013968965, 0.9799381910028334, 0, 0, 0, 0.9835372403384871]
+------------------------------------------
+11.29 Nachhaftung
+Wird der Versicherungsvertrag allein aus Gründen der endgültigen und völligen Betriebs-und/oder Produktions- und Lieferungseinstellung (nicht aus irgendwelchen anderen Gründen wiez.B. Änderung der Rechtsform, Kündigung durch einen der Vertragspartner) beendet, bestehtVersicherungsschutz bis zu 5 Jahren nach Vertragsbeendigung im nachfolgend genannten Um-fang.
+-1:0.04866537889262261		0:0.8335540295094742		1:0.11778059159790315
+
+ Most similar to: Bauherrenhaftpflicht
+------------------------------------------
+
+
+ List: [0.9999520325528996, 0.9965008845839259, 0.998103442674265, 0.9995564340032053, 0.9998472363877644, 0.9999145792654213, 0.9954576073385788, 0.9991173007731954, 0.9998033311639579, 0.9999536953730344, 0.9996735178412844, 0.9999378814341904, 0.9981876832036382, 0, 0.9984731518161389, 0.9992478302558014, 0.9999638232727562, 0, 0.9972740773132639, 0.9992163660107227, 0.9995152537209274, 0.9980193143876944, 0.9985961363538812, 0.9997803759901162, 0.9958738224703578, 0, 0.9999207285442423, 0.9952397862731168, 0.9893292345561354, 0.9992669097086998, 0, 0, 0, 0.9997917366352754]
+------------------------------------------
+§ 6
+Serienschäden§ 7Nachhaftung§ 8Versicherungsfälle im Ausland5.115.12Ansprüche wegen Schaden infolge der Veränderung der Lagerstatte des Grundwassers oder sei-nes Fließverhaltens.Ansprüche wegen Schäden, die nachweislich auf Kriegsereignissen, anderen feindseligen Hand-lungen, Aufruhr, inneren Unruhen, Generalstreik, illegalem Streik oder unmittelbar auf Verfügun-gen oder Maßnahmen von hoher Hand beruhen; das gleiche gilt für Schaden durch höhere Ge-walt, soweit sich elementare Naturkräfte ausgewirkt haben.Mehrere während der Wirksamkeit der Versicherung eintretende Versicherungsfälle durch---dieselbe Umwelteinwirkung,mehrere unmittelbar auf derselben Ursache beruhende Umwelteinwirkungen,mehrere unmittelbar auf den gleichen Ursachen beruhenden Umwelteinwirkungen, wennzwischen gleichen Ursachen ein innerer, insbesondere sachlicher und zeitlicher, Zusammen-hang besteht,gelten unabhängig von ihrem tatsachlichen Eintritt als ein Versicherungsfall, der im Zeitpunkt des erstendieser Versicherungsfälle als eingetreten gilt.Abschnitt I § 6 Ziffer 6.3 wird gestrichen.
+-1:0.00497433868515407		0:0.44041245145655433		1:0.5546132098582917
+
+ Most similar to: Belegschafts-und Besucherhabe
+------------------------------------------
+
+
+ List: [0.999980015908688, 0.9966725684448872, 0.9982554121585964, 0.999618386435852, 0.9998949900692135, 0.9999263872987876, 0.9956985174260683, 0.9991606912363696, 0.999789299209879, 0.9999588899396786, 0.9996279370121414, 0.9999574868751024, 0.998290075283927, 0, 0.9985782694410186, 0.999331065375096, 0.9999522259756143, 0, 0.9973948929800824, 0.9993226005421377, 0.9995450497460338, 0.9979302895698187, 0.9986409546840458, 0.9997777605754784, 0.9960402170887105, 0, 0.9999124372001731, 0.9954361038246043, 0.989618509575038, 0.9993190710598815, 0, 0, 0, 0.9998220227280672]
+------------------------------------------
+§ 9
+Serienschäden§ 10Nachhaftung§ 11Versicherungsfälle im AuslandStand: 05/2017Gothaer GewerbeProtect Haftpflichtversicherung für betriebliche oder berufliche Risikenfür Handel, Gewerbe, Handwerk (ohne Bauhauptgewerbe und ohne Kfz-Handel und Werkstätten)Seite 37
+-1:0.04866537889262261		0:0.8335540295094742		1:0.11778059159790315
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9433308517423051, 0.9163122450688534, 0.9250403062124586, 0.9357545189622956, 0.941212453497667, 0.9422556660771706, 0.9119912664390478, 0.9311242420729581, 0.9388918194623084, 0.9427899470526862, 0.9527761521427288, 0.9455935009768439, 0.9247719521382464, 0, 0.926428026763983, 0.935257989602636, 0.9449064446811793, 0, 0.9195993964316527, 0.933644071148962, 0.9365669512581073, 0.963734112745801, 0.9270817561110365, 0.9384469845234382, 0.9126260226416237, 0, 0.9413864076289551, 0.9127856582929589, 0.8895960970031689, 0.9324632501974552, 0, 0, 0, 0.9391783744207153]
+------------------------------------------
+
+======Category: Energiemehrkosten ==============
+
+7.11
+7.12Haftpflichtansprüche wegen Schäden, die auf Asbest, asbesthaltige Substanzen oder Erzeugnis-se zurückzuführen sind.Haftpflichtansprüche wegen Schäden, die in unmittelbarem oder mittelbarem Zusammenhang ste-hen mit energiereichen ionisierenden Strahlen (z.B. Strahlen von radioaktiven Stoffen oder Rönt-genstrahlen).
+-1:0.04866537889262261		0:0.8335540295094742		1:0.11778059159790315
+
+ Most similar to: Internet-Technologien
+------------------------------------------
+
+
+ List: [0.992492790928107, 0.9983155184893958, 0.9971420278400046, 0.9949957566877835, 0.9930801576092178, 0.9927693738542934, 0.9988157297837931, 0.9961670252287511, 0.9937910621574317, 0.9925116968586253, 0.9881701588510988, 0.9917743787477534, 0.9976032439715682, 0, 0.9971916450874133, 0.9945487740689182, 0.9918266862744289, 0, 0.9984479292217587, 0.9952842170714553, 0.994294033457635, 0.9818710042564386, 0.9970260809632178, 0.9941110928172249, 0.9991510954675185, 0, 0.992957332685277, 0.9979507361206322, 0.9994770690340876, 0.9958329689611691, 0, 0, 0, 0.9938903359954618]
+------------------------------------------
+§ 9
+Deckungssummen/SublimiteEs gelten die im Versicherungsschein genannten Deckungssummen und Höchstersatzleistungen für alleVersicherungsfälle einer Versicherungsperiode.Innerhalb der vereinbarten Deckungssummen gelten nachstehende Sublimite:----Abhandenkommen von Schlüsseln und Codekarten, für Folgeschäden (Abschnitt II § 11 Zif-fer 11.1) 300.000 Euro;Ansprüche aus Benachteiligungen (Abschnitt II § 11 Ziffer 11.4) 300.000 Euro;Bewachte Sachen (Abschnitt II § 11 Ziffer 11.14) Schäden durch Abhandenkommen be-wachter Sachen 300.000 Euro;Erstellen von Energieausweisen / Energieberatung (Abschnitt II § 11 Ziffer 11.17) 300.000Euro;Stand: 05/2017Gothaer GewerbeProtect Haftpflichtversicherung für betriebliche oder berufliche Risikenfür Handel, Gewerbe, Handwerk (ohne Bauhauptgewerbe und ohne Kfz-Handel und Werkstätten)Seite 14Page 32</a>-Mietsachschäden an Staplern und Arbeitsmaschinen (Abschnitt II § 11 Ziffer 11.27.1.4)300.000 Euro;Nachbesserungsbegleitschäden (Abschnitt II § 11 Ziffer 11.28) 300.000 Euro;Vermögensschäden (Abschnitt II § 11 Ziffer 11.36.2.2 - 11.36.2.10) 300.000 Euro;--- Wasseranalyse (Abschnitt II § 11 Ziffer 11.39.) 300.000 Euro;---Aufwendungen vor Eintritt des Versicherungsfalles (Abschnitt III § 4) 1.000.000 Euro;Aufwendungen vor Eintritt des Versicherungsfalles (Abschnitt IV § 7) 1.000.000 Euro;Sanierung von Umweltschäden (USV) auf eigenen Grundstücken, in eigenen Gewässernund am Grundwasser (Abschnitt IV § 2 Ziffern 2.2.7 und 2.2.8) 1.000.000 Euro.Die Höchstersatzleistung der vorgenannten Sublimite für alle Versicherungsfälle einer Versicherungsperi-ode beträgt das Doppelte.
+-1:4.944236388346708e-06		0:6.498161281825196e-05		1:0.9999300741507934
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9921960028692964, 0.9801021785268375, 0.9843216941855907, 0.9891580670831364, 0.9913668245171686, 0.9917846739248863, 0.9778188370254951, 0.98717597689317, 0.9904998247355318, 0.9920175498238432, 0.9954893967708526, 0.9929783583271553, 0.9842327894333701, 0, 0.9850474131669897, 0.9888114690525269, 0.9927803495959021, 0, 0.9817388547002517, 0.9881869061240897, 0.9894522648380903, 0.9984006451956842, 0.9853531745321162, 0.9902865233297445, 0.9783083231435046, 0, 0.9914904346427571, 0.9780006233354938, 0.965628371023083, 0.9877682028072668, 0, 0, 0, 0.9905681687167209]
+------------------------------------------
+11.15 Energiemehrkosten
+Versichert ist - teilweise abweichend von Abschnitt I § 1 Ziffer 1.1 und § 7 Ziffer 7.7 sowie Ab-schnitt II § 11 Ziffer 11.36.2.2 a) - die gesetzliche Haftpflicht wegen eines erhöhten Energie- undWasserverbrauchs und erhöhter Energiekosten aufgrund vom Versicherungsnehmer mangelhaftdurchgeführter Installations-, Reparatur- oder Wartungsarbeiten.Vom Versicherungsschutz ausgeschlossen bleiben Ansprüche infolge vollständiger oder teilwei-ser Unwirksamkeit von Energiesparmaßnahmen.
+-1:0.002103276529410717		0:0.006502865364665627		1:0.9913938581059237
+
+ Most similar to: Medienverluste
+------------------------------------------
+
+
+ List: [0.9979317403200797, 0.9998594633197434, 0.9998896560049573, 0.9990902214179306, 0.9983039686191838, 0.9981400863278311, 0.9996554327787652, 0.9994991748577939, 0.9984674682921726, 0.9979895261854405, 0.9954777949336493, 0.997544314201575, 0.9998503581372341, 0, 0.9998565596268288, 0.9990938880869645, 0.9974915493514684, 0, 0.9998905679101654, 0.999359681847084, 0.9989123853517273, 0.9912898630273687, 0.9997190070104384, 0.998645133574695, 0.9997640483640831, 0, 0.9981784624700617, 0.9993616030202771, 0.9971431402739201, 0.9993578168151565, 0, 0, 0, 0.9986675384271912]
+------------------------------------------
+11.16 Energieversorgung
+Versichert ist die gesetzliche Haftpflicht des Versicherungsnehmers wegen Personen- und Sach-schäden aus Besitz und Betrieb von Anlagen zur Erzeugung und Abgabe von Strom, Gas, Wärmeund Wasser, die der Eigen- oder Fremdversorgung dienen.Versichert sind - insoweit abweichend von Abschnitt II § 11 Ziffer 11.36.2.2 a) - Vermögensschä-den gemäß § 18 NAV, § 18 NDAV, § 6 AVBWasserV und § 6 AVBFernwV.
+-1:9.624307228058543e-05		0:0.0026519518361192767		1:0.9972518050916002
+
+ Most similar to: Bundesdatenschutzgesetzverletzung
+------------------------------------------
+
+
+ List: [0.9936593555958159, 0.9993226099905248, 0.9982487371257558, 0.9958716604884295, 0.9944116789418611, 0.9941039381290857, 0.9996423834524741, 0.9968754307090003, 0.9946829287406989, 0.9938165649556472, 0.989800145465335, 0.9930247969676467, 0.9980395896825018, 0, 0.9978974293788898, 0.9961951022012279, 0.9929396675874148, 0, 0.9987294772501972, 0.9965897247303833, 0.9957376196543251, 0.9838783659450264, 0.9976149829011614, 0.9949939178011385, 0.9994817279793876, 0, 0.9941584200108123, 0.999412644257509, 0.9995575917311127, 0.9965171249635123, 0, 0, 0, 0.9950509563423379]
+------------------------------------------
+11.17 Erstellen von Energieausweisen/ Energieberatung
+Versichert ist - teilweise abweichend von Abschnitt II § 11 Ziffer 11.36.2.2 a) und b) - die gesetzli-che Haftpflicht des Versicherungsnehmers wegen Vermögensschäden aus der Erstellung vonStand: 05/2017Gothaer GewerbeProtect Haftpflichtversicherung für betriebliche oder berufliche Risikenfür Handel, Gewerbe, Handwerk (ohne Bauhauptgewerbe und ohne Kfz-Handel und Werkstätten)Seite 17Page 35</a>Energieausweisen und / oder der Durchführung von Gebäude-Energieberatungen, sofern der Ver-sicherungsnehmer---berechtigter Energieberater und Aussteller von Energieausweisen gemäß EnEV,staatlich anerkannter bzw. zugelassener Energieberater (z.B. HWK, IHK, BAFA) oderzugelassener oder zertifizierter Aussteller von Energieausweisen ist.Vom Versicherungsschutz ausgeschlossen sind Haftpflichtansprüche aus der Durchführung vonEnergieberatungen und/oder der Erstellung von Energieausweisen, die vor Inkrafttreten diesesVertrages vorgenommen bzw. erstellt wurden.
+-1:0.006167852195782804		0:0.11101906436034265		1:0.8828130834438745
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9982721277108367, 0.9913775264350657, 0.9940575254178191, 0.9968042109856521, 0.9978929459380297, 0.9980957780342855, 0.9899199302542571, 0.995690864886945, 0.9973076926598448, 0.9981442733780603, 0.9993936822279893, 0.9986978666495193, 0.9940024235519135, 0, 0.9944993274060493, 0.9965811376151213, 0.9984582723966022, 0, 0.9924625404384164, 0.9962924731558417, 0.9969065139193055, 0.9997575440303916, 0.9946239473468794, 0.9973104514086649, 0.9902201980342632, 0, 0.9978552409505699, 0.989894309833013, 0.9813208748770441, 0.995999728516012, 0, 0, 0, 0.9975377805708641]
+------------------------------------------
+
+======Category: Haus- und Grundbesitzerhaftpflicht ==============
+
+Nebenrisiken
+Versichert ist die gesetzliche Haftpflicht aus allen Nebenrisiken (z.B. aus Haus- und Grundbesitz,der Tätigkeit als Bauherr, der Teilnahme an Veranstaltungen und Messen, Geschäftsreisen, derDurchführung von Betriebsveranstaltungen, Schulungen).
+-1:9.624307228058543e-05		0:0.0026519518361192767		1:0.9972518050916002
+
+ Most similar to: Internet-Technologien
+------------------------------------------
+
+
+ List: [0.9887922180730161, 0.9971302225270984, 0.9953853595216646, 0.9915059683462106, 0.9898800546232084, 0.9894951378138755, 0.9977461200994306, 0.9927923056587404, 0.9898635022882633, 0.9890824348643756, 0.9842523223252606, 0.9880854062866554, 0.9944226799064059, 0, 0.9943437374205837, 0.992918317164841, 0.9877433591304887, 0, 0.9954598081795285, 0.9931218115010187, 0.9917698665988354, 0.977439660037796, 0.993776118622301, 0.9902880826331218, 0.9969283909091963, 0, 0.9894154043441227, 0.9982879773368574, 0.9989275645821012, 0.9922233258070977, 0, 0, 0, 0.9906329731350444]
+------------------------------------------
+
+======Category: Ansprüche versicherter Personen untereinander ==============
+
+Ansprüche der versicherten Unternehmen untereinander
+Versichert sind - abweichend von Abschnitt I § 7 Ziffer 7.4.2 - Haftpflichtansprüche der versicher-ten Unternehmen wegen Personen- und Sachschäden.Nicht versichert sind Mietsachschäden gemäß Abschnitt II § 11 Ziffer 11.27.
+-1:2.2238395438849434e-06		0:0.0013315964707205576		1:0.9986661796897356
+
+ Most similar to: Bundesdatenschutzgesetzverletzung
+------------------------------------------
+
+
+ List: [0.994906639699303, 0.9996793533032707, 0.9988558274100886, 0.9968552770677381, 0.995597784819749, 0.9953199201178041, 0.9998442521256332, 0.9977140589695657, 0.9958257940642798, 0.9950668128488566, 0.9914154385938762, 0.9943142701190522, 0.9986412570116219, 0, 0.9985721189553796, 0.997111216481712, 0.9942598170259073, 0, 0.999167894018454, 0.997454519355354, 0.9967759380199271, 0.9858972260149627, 0.9983346057412994, 0.9960898701377482, 0.9997245659101096, 0, 0.9953779052000238, 0.9996054222297721, 0.9991157627691657, 0.997414896645312, 0, 0, 0, 0.9961454314641319]
+------------------------------------------
+Ansprüche mitversicherter Personen untereinander
+Versichert sind - in teilweiser Abänderung von Abschnitt I § 7 Ziffer 7.4.3 - Haftpflichtansprüchemitversicherter Personen untereinander wegen
+-1:0.0005850946711405901		0:0.099208725852735		1:0.9002061794761245
+
+ Most similar to: Bundesdatenschutzgesetzverletzung
+------------------------------------------
+
+
+ List: [0.9936273800677491, 0.9992427870583459, 0.998183666523473, 0.995857944325621, 0.9943392125711714, 0.9940124759687597, 0.999594211367674, 0.9968601947245521, 0.9947106835557928, 0.9937530891478322, 0.989686717300231, 0.9929269567758936, 0.998061871195394, 0, 0.9978990270073282, 0.9959969545432317, 0.9928830771391931, 0, 0.9987510421459438, 0.9964939514455895, 0.9955717484647321, 0.9836866524684449, 0.9976079648331432, 0.9949801173514697, 0.9995301401393255, 0, 0.9941187227718429, 0.9991642284085517, 0.9995570378874994, 0.996543591256614, 0, 0, 0, 0.9949660891780762]
+------------------------------------------
+§ 12
+Obliegenheiten vor, bei undnach Eintritt desVersicherungsfalles§ 13Mitversicherte Personen11.2 Wenn die Mehrfachversicherung zustande gekommen ist, ohne dass der Versicherungsnehmerdies wusste, kann er die Aufhebung des später geschlossenen Vertrages verlangen.
+-1:0.04866537889262261		0:0.8335540295094742		1:0.11778059159790315
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9871146770340408, 0.9723953509152, 0.977389452269367, 0.9832914953453321, 0.9860642152676142, 0.9866290110932935, 0.9696781912232004, 0.980887553804212, 0.9850706707040588, 0.9869272358033656, 0.9915318882641935, 0.9880947012050939, 0.9772909416939847, 0, 0.9782626665019865, 0.98289160041353, 0.9879217166904393, 0, 0.9743189208642316, 0.98207988414531, 0.9836979805828489, 0.9957590264090938, 0.978686036002327, 0.984745235489236, 0.9702801531201063, 0, 0.9862855013745255, 0.9700015838813804, 0.9556964175783226, 0.9816055816041536, 0, 0, 0, 0.9850705972744864]
+------------------------------------------
+2.4
+Mitversicherte PersonenVersichert ist die persönliche gesetzliche Haftpflicht für von ihnen im Zusammenhang mit ihrerberuflichen / dienstlichen Tätigkeit für den Versicherungsnehmer verursachte, im Rahmen undUmfang dieses Vertrages versicherte Schäden,
+-1:0.0029485794380196555		0:0.736184447961763		1:0.2608669726002173
+
+ Most similar to: Umweltschadensversicherung
+------------------------------------------
+
+
+ List: [0.9987937501295926, 0.9989855894482873, 0.9996020868411728, 0.9992416871483601, 0.9991037661719618, 0.9990366356512236, 0.9984124931253324, 0.9992621868180736, 0.9988759680051347, 0.9989121981630599, 0.9973501867424278, 0.9986125085983883, 0.9990664616742989, 0, 0.9993297480286862, 0.9998712397128303, 0.9984186478779287, 0, 0.998693674532789, 0.9997745576736548, 0.9994755125863065, 0.994269123085368, 0.9991387891498255, 0.9989934682575482, 0.9982230140379084, 0, 0.9989404293902514, 0.9987618875603875, 0.9942893178805378, 0.9991627688890358, 0, 0, 0, 0.9992471490277012]
+------------------------------------------
+
+======Category: Subunternehmerbeauftragung ==============
+
+Abschnitt II Betriebliche / Berufliche Risiken
+§ 1 Vertragsgrundlagen§ 2 Versichertes Risiko§ 3 Subunternehmen§ 4 Arbeits-/Liefergemeinschaften§ 5 Versehensklausel§ 6 Kumulklausel§ 7 Währungsklausel§ 8 Kostenklausel§ 9 Deckungssummen / Sublimite§ 10 Selbstbeteiligungen§ 11 Erweiterungen des Versicherungsschutzes§ 12 Risikobegrenzungen / Ausschlüsse
+-1:0.015871274099479214		0:0.929254165229959		1:0.054874560670561755
+
+ Most similar to: Belegschafts-und Besucherhabe
+------------------------------------------
+
+
+ List: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+------------------------------------------
+§ 3
+SubunternehmenVersichert ist die gesetzliche Haftpflicht des Versicherungsnehmers aus der Beauftragung und Überwa-chung fremder Unternehmen / Subunternehmen.Vom Versicherungsschutz ausgeschlossen ist die persönliche gesetzliche Haftpflicht der fremden Unter-nehmen / Subunternehmen und ihrer Betriebsangehörigen.
+-1:0.8845240749005414		0:0.10623669942343557		1:0.009239225676023144
+
+ Most similar to: Subunternehmerbeauftragung
+------------------------------------------
+
+
+ List: [0.9962740308458214, 0.9996930914550322, 0.9993745281910552, 0.997635572825066, 0.9968911568207771, 0.9966737218975039, 0.9996191965552366, 0.9981467142100459, 0.9967412930182485, 0.9964424954876911, 0.9935571534343154, 0.9958700778384761, 0.9986931296468251, 0, 0.998817548863708, 0.998489948083048, 0.9956175056911075, 0, 0.9988841772971179, 0.9985546164483219, 0.9978366713941518, 0.9889700225538587, 0.9984665445654722, 0.996984538573809, 0.999190820067309, 0, 0.9965897782062085, 0.9999417507203181, 0.9976010128209819, 0.9978811458971384, 0, 0, 0, 0.9972592517111807]
+------------------------------------------
+
+======Category: Internet-Technologien ==============
+
+Ansprechpartner zur
+außergerichtlichenSchlichtung• GothaerBeschwerdemanagement• Versicherungs-OmbudsmannIhre individuelle, persönliche und kompetente Beratung ist unser Ziel.Sollten Sie dennoch einmal nicht zufrieden sein, wenden Sie sich bitte anGothaer Allgemeine Versicherung AG50598 KölnInternet: www.gothaer.de/privatkunden/kontakt-privatkunden/beschwerdemanagement.htmMail: beschwerde@gothaer.deoder an den Versicherungsombudsmann als gesetzliche Schlichtungsstelle zur außergerichtlichen Beile-gung von Streitigkeiten:Versicherungsombudsmann e.V.Postfach 08 06 3210006 BerlinInternet: www.versicherungsombudsmann.deIhr Recht, unmittelbar den Rechtsweg zu beschreiten, wird durch diese Institutionen nicht berührt.Stand: 05/2017Gothaer GewerbeProtect Kundeninformationen und VersicherungsbedingungenSeite 3
+-1:0.00497433868515407		0:0.44041245145655433		1:0.5546132098582917
+
+ Most similar to: Mangelbeseitigungsnebenkosten
+------------------------------------------
+
+
+ List: [0.9999119013853064, 0.9971129076035751, 0.998564829884847, 0.9996256678515542, 0.9999184038227363, 0.9999473273804792, 0.9961580769454786, 0.9992256525276383, 0.999716492245193, 0.9999444954842154, 0.9994839594134831, 0.9998995229364591, 0.998400879814815, 0, 0.9987268275233968, 0.9996223747688547, 0.9998289287104867, 0, 0.9975641746443142, 0.9995293576033426, 0.9997070676526554, 0.997651769213233, 0.998753590944138, 0.9997341274580733, 0.9963400054235454, 0, 0.9998904897127393, 0.9961292051186864, 0.9902644951596163, 0.9993286224833048, 0, 0, 0, 0.9998593171558402]
+------------------------------------------
+11.21
+Internet-Risiken11.21.1 Versichertes RisikoVersichert ist - insoweit abweichend von Abschnitt I § 7 Ziffer 7.15 - die gesetzliche Haft-pflicht des Versicherungsnehmers wegen Schäden aus dem Austausch, der Übermittlungund der Bereitstellung elektronischer Daten (z.B im Internet, per E-Mail oder mittels Da-tenträger).
+-1:0.04866537889262261		0:0.8335540295094742		1:0.11778059159790315
+
+ Most similar to: Internet-Technologien
+------------------------------------------
+
+
+ List: [0.9914076072157793, 0.9984844926915348, 0.9969976316737118, 0.9940242309076955, 0.9922704487712181, 0.991912630455031, 0.9990122718633104, 0.9952604344102732, 0.9926334449295048, 0.9915837796197681, 0.9869850134996812, 0.9906650734275151, 0.9967614359837682, 0, 0.996537646014217, 0.9944432516839572, 0.9905720279482644, 0, 0.9977002072193848, 0.9949156636661249, 0.9938481072851739, 0.9803887000177054, 0.9961936853086443, 0.9929845746353355, 0.9987911816325951, 0, 0.9919890983530448, 0.9987926563564904, 0.9999029098316451, 0.9948207606738664, 0, 0, 0, 0.9930322981205479]
+------------------------------------------
+
+======Category: Leitungsschäden ==============
+
+11.34 Tätigkeitsschäden (auch Leitungsschäden und Be-/ Entladeschäden)
+11.34.1 Versichert ist - abweichend von Abschnitt I § 7 Ziffer 7.7 - die gesetzliche Haftpflicht we-gen Schäden an fremden Sachen und alle sich daraus ergebenden Vermögensschäden,wenn diese Schäden-durch eine betriebliche oder berufliche Tätigkeit des Versicherungsnehmers an die-sen Sachen entstanden sind.dadurch entstanden sind, dass der Versicherungsnehmer die Sachen zur Durchfüh-rung seiner betrieblichen oder beruflichen Tätigkeiten benutzt hat.durch eine betriebliche oder berufliche Tätigkeit des Versicherungsnehmers entstan-den sind und sich diese Sachen oder deren Teile im unmittelbaren Einwirkungsbe-reich der Tätigkeit befunden haben.--Die Regelungen des Abschnitts I § 1 Ziffer 1.2 und § 7 Ziffer 7.8 bleiben bestehen.Stand: 05/2017Gothaer GewerbeProtect Haftpflichtversicherung für betriebliche oder berufliche Risikenfür Handel, Gewerbe, Handwerk (ohne Bauhauptgewerbe und ohne Kfz-Handel und Werkstätten)Seite 22
+-1:9.624307228058543e-05		0:0.0026519518361192767		1:0.9972518050916002
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9981064577063582, 0.9907638502949168, 0.9935667882844359, 0.99652175615049, 0.9976789812346302, 0.9978943020531282, 0.9892217310840498, 0.9953584777137671, 0.9971487001113818, 0.9979884442973834, 0.9994100799639247, 0.9985273912760467, 0.9935548028138168, 0, 0.9940690479820277, 0.9962197197382301, 0.9983504121804629, 0, 0.9919407999769349, 0.9959194401857501, 0.9966217040076056, 0.9999000739792054, 0.9942421834085097, 0.997105860968305, 0.9895961540303331, 0, 0.9976997617367416, 0.989169196828375, 0.9803492099668268, 0.9957021893622022, 0, 0, 0, 0.9972900421918613]
+------------------------------------------
+
+======Category: Leitungsfolgeschäden ==============
+
+
+======Category: Vermögensschadenshaftpflicht ==============
+
+Inhaltsverzeichnis
+ProduktinformationsblattProduktbezogene Bedingungen Haftpflichtversicherung für betriebliche oder berufliche RisikenAbschnitt I Allgemeine Bestimmungen§ 1 Gegenstand der Versicherung, Versicherungsfall§ 2 Vermögensschaden, Abhandenkommen von Sachen§ 3 Versichertes Risiko§ 4 Vorsorgeversicherung§ 5 Leistungen der Versicherung§ 6 Begrenzung der Leistungen§ 7 Ausschlüsse§ 8 Meldeverfahren und Beitragsregulierung§ 9 Kündigung nach Versicherungsfall§ 10 Kündigung nach Risikoerhöhung aufgrund Änderung oder Erlass von Rechtsvorschriften§ 11 Mehrfachversicherung§ 12 Obliegenheiten vor, bei und nach Eintritt des Versicherungsfalles§ 13 Mitversicherte Personen§ 14 Abtretungsverbot
+-1:7.872815480801783e-05		0:0.9979145393207627		1:0.002006732524429262
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9946213925547227, 0.9839753113204315, 0.9877531614386131, 0.9921082916775587, 0.9938773323261569, 0.9942004603744261, 0.982016164133339, 0.9904032188192627, 0.9931776745377202, 0.9944164775670138, 0.9971953531179394, 0.9953063291116001, 0.9878855054618862, 0, 0.9885330546017991, 0.9915418472168968, 0.9951276165759213, 0, 0.9857085764219642, 0.9911037455744461, 0.9922300111982895, 0.9992588211410763, 0.988831137940803, 0.993065889294582, 0.9825621420780152, 0, 0.9939665638805026, 0.9818933165887652, 0.9709928597318155, 0.9909349264130702, 0, 0, 0, 0.9932348742519328]
+------------------------------------------
+§ 2
+Vermögensschaden,Abhandenkommen vonSachen§ 3Versichertes Risiko§ 4VorsorgeversicherungStand: 05/2017Gothaer GewerbeProtect Haftpflichtversicherung für betriebliche oder berufliche Risikenfür Handel, Gewerbe, Handwerk (ohne Bauhauptgewerbe und ohne Kfz-Handel und Werkstätten)Seite 5Page 23</a>tragsrechnung erfolgen. Unterlässt der Versicherungsnehmer die rechtzeitige Anzeige,entfällt der Versicherungsschutz für das neue Risiko rückwirkend ab dessen Entstehung.Tritt der Versicherungsfall ein, bevor das neue Risiko angezeigt wurde, so hat der Versi-cherungsnehmer zu beweisen, dass das neue Risiko erst nach Abschluss der Versiche-rung und zu einem Zeitpunkt hinzugekommen ist, zu dem die Anzeigefrist noch nicht ver-strichen war.
+-1:0.024671401128559912		0:0.5883899149415062		1:0.38693868392993397
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9887723060314103, 0.9748348990902673, 0.9796041686918683, 0.9851877208869544, 0.9877873266251407, 0.9882910351275721, 0.9722780812142097, 0.9828996173309025, 0.9867921584078397, 0.988569959004573, 0.9928363836621779, 0.9897170115718731, 0.9795170926916801, 0, 0.9804339352746169, 0.9847954599561468, 0.9895034358194791, 0, 0.9766947237229511, 0.9840454248636566, 0.985551310500196, 0.9966835193566388, 0.9808123666468564, 0.9865298407751919, 0.972825266722538, 0, 0.9879500570720023, 0.9725337637884359, 0.9588361777016393, 0.98358098048015, 0, 0, 0, 0.9868450308299314]
+------------------------------------------
+
+======Category: Deckungssumme Vermögensschadenshaftpflicht ==============
+
+1.2.5
+auf Ersatz von Vermögensschäden wegen Verzögerung der Leistung.
+-1:0.04866537889262261		0:0.8335540295094742		1:0.11778059159790315
+
+ Most similar to: Internet-Technologien
+------------------------------------------
+
+
+ List: [0.9798442619069841, 0.9919681000728616, 0.9889802027757932, 0.9840202197129166, 0.9810680960938584, 0.9804572199011133, 0.9933773825626061, 0.9860966984563203, 0.9818705305365294, 0.9800065437085886, 0.9731518401843957, 0.9786323078540298, 0.9889116230501125, 0, 0.9883369515447578, 0.9842462524747669, 0.9785587303575813, 0, 0.9907916317611347, 0.9852360801493145, 0.983383600707318, 0.9639753331945573, 0.987792047050579, 0.9823634119277318, 0.9931166766382628, 0, 0.9806786244595218, 0.9926017940898416, 0.9979506447549675, 0.9854572089993308, 0, 0, 0, 0.9822319975142356]
+------------------------------------------
+2.1
+2.23.13.24.1Vermögensschäden, die weder durch Personen- noch durch Sachschäden entstanden sind.Schäden durch Abhandenkommen von Sachen.Der Versicherungsschutz umfasst die gesetzliche Haftpflicht
+-1:0.024671401128559912		0:0.5883899149415062		1:0.38693868392993397
+
+ Most similar to: Abhandenkommen fremder Schlüssel / Codekarten
+------------------------------------------
+
+
+ List: [0.9977408050346771, 0.9998753112049141, 0.9998534035515747, 0.9989454277245063, 0.9981199489439132, 0.9979574398295502, 0.9996867348422148, 0.9993953213453703, 0.9983336208907551, 0.9978110918700297, 0.9952170576096677, 0.9973199104852014, 0.999796692027362, 0, 0.9997867609818994, 0.998999795763255, 0.9972723290786693, 0, 0.9998574592230638, 0.9992832168418992, 0.9987531567461104, 0.9909107300008622, 0.9996435052695787, 0.9984972134945527, 0.9997976663410891, 0, 0.9980153799060927, 0.9994303521524859, 0.997313805369489, 0.9992427233271078, 0, 0, 0, 0.9985028453735425]
+------------------------------------------
+4.2
+Der Versicherungsschutz für neue Risiken ist von ihrer Entstehung bis zur Einigung im Sinne vonZiffer 4.1.2 auf den Betrag von 2.000.000 Euro für Personenschäden, 1.000.000 Euro für Sach-schäden und 100.000 Euro für Vermögensschäden begrenzt, sofern nicht im Versicherungs-schein geringere Deckungssummen festgesetzt sind.
+-1:0.00016732280535190132		0:0.003805226281856473		1:0.9960274509127915
+
+ Most similar to: Nachbesserungsbegleitschäden
+------------------------------------------
+
+
+ List: [0.9998641239043002, 0.9979448708055166, 0.999092533925787, 0.9998833537856785, 0.9999356897323342, 0.9999442252913316, 0.9970978409887661, 0.9996750146634031, 0.9998922210319456, 0.9999203942859964, 0.9990328904264725, 0.9997495084778267, 0.9990483078807414, 0, 0.9993074904400029, 0.9997395547576973, 0.9997590390303813, 0, 0.9983953322220711, 0.9997357458031707, 0.999900379968047, 0.9966937288230029, 0.9993618757369661, 0.999915452266575, 0.9973598468702853, 0, 0.9999457275192043, 0.9969334175128669, 0.991897923641119, 0.9997379303448563, 0, 0, 0, 0.999975191065034]
+------------------------------------------
+7.8
+7.97.107.7.3die Schäden durch eine betriebliche oder berufliche Tätigkeit des Versicherungsnehmerentstanden sind und sich diese Sachen oder - sofern es sich um unbewegliche Sachenhandelt - deren Teile im unmittelbaren Einwirkungsbereich der Tätigkeit befunden haben;dieser Ausschluss gilt nicht, wenn der Versicherungsnehmer beweist, dass er zum Zeit-punkt der Tätigkeit offensichtlich notwendige Schutzvorkehrungen zur Vermeidung vonSchäden getroffen hatte.Zu Ziffer 7.6 und Ziffer 7.7:Sind die Voraussetzungen der Ausschlüsse in Ziffer 7.6 und Ziffer 7.7 in der Person von Ange-stellten, Arbeitern, Bediensteten, Bevollmächtigten oder Beauftragten des Versicherungsnehmersgegeben, so entfällt gleichfalls der Versicherungsschutz, und zwar sowohl für den Versicherungs-nehmer als auch für die durch den Versicherungsvertrag etwa mitversicherten Personen.Haftpflichtansprüche wegen Schäden an vom Versicherungsnehmer hergestellten oder geliefertenSachen, Arbeiten oder sonstigen Leistungen infolge einer in der Herstellung, Lieferung oder Leis-tung liegenden Ursache und alle sich daraus ergebenden Vermögensschäden. Dies gilt auchdann, wenn die Schadenursache in einem mangelhaften Einzelteil der Sache oder in einer man-gelhaften Teilleistung liegt und zur Beschädigung oder Vernichtung der gesamten Sache oderLeistung führt.Dieser Ausschluss findet auch dann Anwendung, wenn Dritte im Auftrag oder für Rechnung desVersicherungsnehmers die Herstellung oder Lieferung der Sachen oder die Arbeiten oder sonsti-gen Leistungen übernommen haben.Haftpflichtansprüche aus im Ausland vorkommenden Schadenereignissen; Ansprüche aus § 110SGB VII sind jedoch mitversichert.
+-1:0.9957687372189338		0:0.0014978889098133615		1:0.0027333738712528987
+
+ Most similar to: Leitungsschäden
+------------------------------------------
+
+
+ List: [0.9995517320351562, 0.9985560562863544, 0.9994164145529398, 0.9999588137784088, 0.9996238136496758, 0.9995942658040182, 0.9979379891735998, 0.9999620041503983, 0.9998043992447639, 0.9995470072034823, 0.9981684021108972, 0.9993605298996975, 0.9996741403585918, 0, 0.9997490887137065, 0.9995246293949015, 0.9994094092251218, 0, 0.9992457223865231, 0.9997176875241948, 0.9996976779927258, 0.9952596499302471, 0.9998184664285902, 0.9998806593035823, 0.9983739195593122, 0, 0.9996504467764317, 0.9974843415311088, 0.9936645169965924, 0.9999837990665238, 0, 0, 0, 0.9998187795335852]
+------------------------------------------
+§ 9
+Deckungssummen/SublimiteEs gelten die im Versicherungsschein genannten Deckungssummen und Höchstersatzleistungen für alleVersicherungsfälle einer Versicherungsperiode.Innerhalb der vereinbarten Deckungssummen gelten nachstehende Sublimite:----Abhandenkommen von Schlüsseln und Codekarten, für Folgeschäden (Abschnitt II § 11 Zif-fer 11.1) 300.000 Euro;Ansprüche aus Benachteiligungen (Abschnitt II § 11 Ziffer 11.4) 300.000 Euro;Bewachte Sachen (Abschnitt II § 11 Ziffer 11.14) Schäden durch Abhandenkommen be-wachter Sachen 300.000 Euro;Erstellen von Energieausweisen / Energieberatung (Abschnitt II § 11 Ziffer 11.17) 300.000Euro;Stand: 05/2017Gothaer GewerbeProtect Haftpflichtversicherung für betriebliche oder berufliche Risikenfür Handel, Gewerbe, Handwerk (ohne Bauhauptgewerbe und ohne Kfz-Handel und Werkstätten)Seite 14Page 32</a>-Mietsachschäden an Staplern und Arbeitsmaschinen (Abschnitt II § 11 Ziffer 11.27.1.4)300.000 Euro;Nachbesserungsbegleitschäden (Abschnitt II § 11 Ziffer 11.28) 300.000 Euro;Vermögensschäden (Abschnitt II § 11 Ziffer 11.36.2.2 - 11.36.2.10) 300.000 Euro;--- Wasseranalyse (Abschnitt II § 11 Ziffer 11.39.) 300.000 Euro;---Aufwendungen vor Eintritt des Versicherungsfalles (Abschnitt III § 4) 1.000.000 Euro;Aufwendungen vor Eintritt des Versicherungsfalles (Abschnitt IV § 7) 1.000.000 Euro;Sanierung von Umweltschäden (USV) auf eigenen Grundstücken, in eigenen Gewässernund am Grundwasser (Abschnitt IV § 2 Ziffern 2.2.7 und 2.2.8) 1.000.000 Euro.Die Höchstersatzleistung der vorgenannten Sublimite für alle Versicherungsfälle einer Versicherungsperi-ode beträgt das Doppelte.
+-1:4.944236388346708e-06		0:6.498161281825196e-05		1:0.9999300741507934
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9921960028692964, 0.9801021785268375, 0.9843216941855907, 0.9891580670831364, 0.9913668245171686, 0.9917846739248863, 0.9778188370254951, 0.98717597689317, 0.9904998247355318, 0.9920175498238432, 0.9954893967708526, 0.9929783583271553, 0.9842327894333701, 0, 0.9850474131669897, 0.9888114690525269, 0.9927803495959021, 0, 0.9817388547002517, 0.9881869061240897, 0.9894522648380903, 0.9984006451956842, 0.9853531745321162, 0.9902865233297445, 0.9783083231435046, 0, 0.9914904346427571, 0.9780006233354938, 0.965628371023083, 0.9877682028072668, 0, 0, 0, 0.9905681687167209]
+------------------------------------------
+11.8.3 Vermögensschäden aus der Verletzung von Datenschutzgesetzen im Umfang des Ab-
+schnitt II § 11 Ziffer 11.36.1.
+-1:0.04866537889262261		0:0.8335540295094742		1:0.11778059159790315
+
+ Most similar to: Umwelthaftpflichtbasisversicherung Kleingebinde
+------------------------------------------
+
+
+ List: [0.9982684035790386, 0.99247612578952, 0.9948177060117352, 0.9969667294987307, 0.9981305434220311, 0.9982203613152222, 0.9909791168581407, 0.9959505289067164, 0.99749972371735, 0.9983116270593796, 0.9992428021458919, 0.9984530706451712, 0.9943091480156909, 0, 0.9949580520096128, 0.9972003598297033, 0.9983673907110662, 0, 0.9928448709373516, 0.9967876106780666, 0.997433916275253, 0.9990240361260104, 0.9949774248375125, 0.9973767971761358, 0.9910063234891776, 0, 0.9980659804287768, 0.9912578563568908, 0.9826486058971731, 0.9962242992520655, 0, 0, 0, 0.997685182550221]
+------------------------------------------
+11.11 Auslösen von Fehlalarm
+Versichert sind - abweichend von Abschnitt II § 11 Ziffer 11.36.2.2 a) - gesetzliche Haftpflichtan-sprüche wegen Vermögensschäden durch versehentlich ausgelösten Alarm bei Dritten. Mitversi-chert gelten - abweichend von Abschnitt I § 1 Ziffer 1.1 - insoweit auch öffentlich-rechtliche An-sprüche.Stand: 05/2017Gothaer GewerbeProtect Haftpflichtversicherung für betriebliche oder berufliche Risikenfür Handel, Gewerbe, Handwerk (ohne Bauhauptgewerbe und ohne Kfz-Handel und Werkstätten)Seite 16
+-1:0.0005850946711405901		0:0.099208725852735		1:0.9002061794761245
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9985395385903985, 0.992491162896724, 0.9949418131836855, 0.9972277045942104, 0.9982904692767357, 0.9984645647222563, 0.9911010099506852, 0.9962043655865291, 0.9976139646223867, 0.9984769122669064, 0.9994654197790988, 0.9989209494176252, 0.9946294357899808, 0, 0.9951744040468391, 0.9973293023366686, 0.9986343218580047, 0, 0.9931933093522829, 0.9969726387252611, 0.9975090411252465, 0.9995190885801557, 0.9952232574245329, 0.9976358049063939, 0.9911851590836843, 0, 0.9981951159107738, 0.9912942640075936, 0.9828476886974755, 0.9964571173713678, 0, 0, 0, 0.9979526287288412]
+------------------------------------------
+11.12 Belegschafts- und Besucher-/ Gästehabe
+11.12.1 Versichert ist - abweichend von Abschnitt I § 2 Ziffer 2.2 und § 7 Ziffer 7.6 - die gesetzli-che Haftpflicht des Versicherungsnehmers wegen Beschädigung, Vernichtung sowie Ab-handenkommens von Sachen der Betriebsangehörigen und der Besucher / Gäste sowiealle sich daraus ergebenden Vermögensschäden.Versicherungsschutz besteht nur, sofern die Beschädigung, die Vernichtung sowie dasAbhandenkommen die ursächlich zusammenhängende Folge eines Ereignisses ist, dasmit dem versicherten Betrieb in räumlicher oder tätigkeitsbedingter Verbindung steht.
+-1:9.624307228058543e-05		0:0.0026519518361192767		1:0.9972518050916002
+
+ Most similar to: AGG-Deckung
+------------------------------------------
+
+
+ List: [0.9996672812891352, 0.9986499412735161, 0.9995394956878325, 0.9999759104120499, 0.9997840486514695, 0.9997287893261451, 0.997992238474794, 0.9999092886413585, 0.9998169027900997, 0.9996853683908528, 0.9983859702324884, 0.9994711067543592, 0.9995608358193969, 0, 0.9997268569109735, 0.9997734145845133, 0.9994657453449284, 0, 0.9990793547894338, 0.999890372086931, 0.9998642204994024, 0.9955776855498161, 0.9997239512122854, 0.9998816050243743, 0.9982589971719661, 0, 0.9997529886070674, 0.9976948815802885, 0.9934843878325276, 0.9999412850761189, 0, 0, 0, 0.9998999864610334]
+------------------------------------------
+11.12.2 Für Beherbergungsbetriebe und Kfz-Dienstleistungsbetriebe gilt:
+Versichert ist - abweichend von Abschnitt I § 7 Ziffer 7.7 und Abschnitt II § 12 Ziffer12.11 - die gesetzliche Haftpflicht aus der Beschädigung und Vernichtung von fremdenKraftfahrzeugen und deren Zubehör (ausgenommen Inhalt und Ladung) und alle sich dar-aus ergebenden Vermögensschäden beim Gebrauch dieser Kraftfahrzeuge. Nicht versi-chert sind jedoch Haftpflichtansprüche gemäß § 3 Pflichtversicherungsgesetz (PflVG).Für diese Fahrzeuge gelten nicht die Ausschüsse in Abschnitt I § 3 Ziffer 3.1.2 und § 4Ziffer 4.3.1.Das Fahrzeug darf nur von einem berechtigten Fahrer gebraucht werden. BerechtigterFahrer ist, wer das Fahrzeug mit Wissen und Willen des Verfügungsberechtigten gebrau-chen darf. Der Versicherungsnehmer ist verpflichtet, dafür zu sorgen, dass das Fahrzeugnicht von einem unberechtigten Fahrer gebraucht wird. Der Fahrer des Fahrzeugs darfdas Fahrzeug auf öffentlichen Wegen oder Plätzen nur mit der erforderlichen Fahrerlaub-nis benutzen. Der Versicherungsnehmer ist verpflichtet, dafür zu sorgen, dass das Fahr-zeug nicht von einem Fahrer benutzt wird, der nicht die erforderliche Fahrerlaubnis hat.Nicht versichert sind Haftpflichtansprüche gegen die Personen (Versicherungsnehmeroder Mitversicherte), die das Fahrzeug entwendet oder unbefugt gebraucht haben.
+-1:6.667026586738596e-07		0:8.112787031230772e-05		1:0.9999182054270291
+
+ Most similar to: Ansprüche versicherter Personen untereinander
+------------------------------------------
+
+
+ List: [0.9999310835403458, 0.9974653929868327, 0.9987769109007646, 0.9998067542591149, 0.9999357897656661, 0.9999748245348197, 0.9965323279587607, 0.9995262242463396, 0.9999247341860849, 0.9999727832315697, 0.9993044424750097, 0.9998432986751625, 0.9987908030940521, 0, 0.9990496324287064, 0.9996110949847433, 0.9998778448890979, 0, 0.9980426924366819, 0.9995950379974657, 0.9997852603541642, 0.9971974993025645, 0.9991332554447732, 0.9999125494696177, 0.996878275473889, 0, 0.9999846294784768, 0.996375028139314, 0.9910227383012363, 0.9996123633023489, 0, 0, 0, 0.9999524231798113]
+------------------------------------------
+11.13 Besonderer Verwahrungsvertrag
+Versichert ist - teilweise abweichend von Abschnitt I § 2 Ziffer 2.2 und § 7 Ziffer 7.6 - die gesetzli-che Haftpflicht des Versicherungsnehmers wegen Beschädigung, Vernichtung sowie Abhanden-kommen von Sachen aus einem besonderen Verwahrungsvertrag sowie alle sich daraus ergeben-den Vermögensschäden.
+-1:9.624307228058543e-05		0:0.0026519518361192767		1:0.9972518050916002
+
+ Most similar to: Be- und Entladeschäden
+------------------------------------------
+
+
+ List: [0.9999127337913144, 0.9967742661286225, 0.9983272863832608, 0.9995166379881085, 0.9998927672667715, 0.999904467073315, 0.9957959188055445, 0.9990246972823948, 0.9996145763880291, 0.9999135008671622, 0.9995843690352528, 0.9999168960431681, 0.9981378941551933, 0, 0.9984994184427444, 0.9994659412736118, 0.9998221994542871, 0, 0.9972370941689358, 0.9993789427136259, 0.9995964753499017, 0.9979429979078265, 0.9984963286173291, 0.9996294179671503, 0.9959470239893388, 0, 0.9998310438955585, 0.9956947140885972, 0.989628732599724, 0.9991713464284736, 0, 0, 0, 0.9997736970833119]
+------------------------------------------
+11.14 Bewachte Sachen
+Für Bewachungsunternehmen gilt:Versichert sind Ansprüche - in Ergänzung von Abschnitt I § 2 Ziffer 2.2 und abweichend von Ab-schnitt I § 7 Ziffer 7.6 und 7.7 - aus Beschädigung, Vernichtung sowie Abhandenkommen der be-wachten Sachen und alle sich daraus ergebenden Vermögensschäden.Vom Versicherungsschutz ausgeschlossen sind Haftpflichtansprüche aus Diebstahl oder Unter-schlagungen durch den Versicherungsnehmer oder mitversicherte Personen.
+-1:4.3586666451956216e-05		0:0.0007726131158957625		1:0.9991838002176522
+
+ Most similar to: Asbestschäden
+------------------------------------------
+
+
+ List: [0.998694467917421, 0.9995482850163551, 0.9998739362038885, 0.9995813553783682, 0.998972274363854, 0.9988473316398367, 0.9991910530901627, 0.999840786246676, 0.9991220164314665, 0.9987343209593375, 0.9966293117872914, 0.9983800575696953, 0.9999437004056425, 0, 0.9999865884947626, 0.9993831665160164, 0.9983672110103298, 0, 0.99981623496007, 0.9996270412014981, 0.9993926277819032, 0.9929054873215021, 0.9999392189334793, 0.9992703035192314, 0.9994100861275925, 0, 0.9988934588315104, 0.998791791704183, 0.9960135141500421, 0.999770310758271, 0, 0, 0, 0.9992594383573791]
+------------------------------------------
+11.17 Erstellen von Energieausweisen/ Energieberatung
+Versichert ist - teilweise abweichend von Abschnitt II § 11 Ziffer 11.36.2.2 a) und b) - die gesetzli-che Haftpflicht des Versicherungsnehmers wegen Vermögensschäden aus der Erstellung vonStand: 05/2017Gothaer GewerbeProtect Haftpflichtversicherung für betriebliche oder berufliche Risikenfür Handel, Gewerbe, Handwerk (ohne Bauhauptgewerbe und ohne Kfz-Handel und Werkstätten)Seite 17Page 35</a>Energieausweisen und / oder der Durchführung von Gebäude-Energieberatungen, sofern der Ver-sicherungsnehmer---berechtigter Energieberater und Aussteller von Energieausweisen gemäß EnEV,staatlich anerkannter bzw. zugelassener Energieberater (z.B. HWK, IHK, BAFA) oderzugelassener oder zertifizierter Aussteller von Energieausweisen ist.Vom Versicherungsschutz ausgeschlossen sind Haftpflichtansprüche aus der Durchführung vonEnergieberatungen und/oder der Erstellung von Energieausweisen, die vor Inkrafttreten diesesVertrages vorgenommen bzw. erstellt wurden.
+-1:0.006167852195782804		0:0.11101906436034265		1:0.8828130834438745
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9982721277108367, 0.9913775264350657, 0.9940575254178191, 0.9968042109856521, 0.9978929459380297, 0.9980957780342855, 0.9899199302542571, 0.995690864886945, 0.9973076926598448, 0.9981442733780603, 0.9993936822279893, 0.9986978666495193, 0.9940024235519135, 0, 0.9944993274060493, 0.9965811376151213, 0.9984582723966022, 0, 0.9924625404384164, 0.9962924731558417, 0.9969065139193055, 0.9997575440303916, 0.9946239473468794, 0.9973104514086649, 0.9902201980342632, 0, 0.9978552409505699, 0.989894309833013, 0.9813208748770441, 0.995999728516012, 0, 0, 0, 0.9975377805708641]
+------------------------------------------
+11.27 Mietsachschäden
+11.27.1 Versichert ist - teilweise abweichend von Abschnitt I § 7 Ziffer 7.6 - die gesetzliche Haft-pflicht des Versicherungsnehmers wegen Schäden - einschließlich aller sich daraus er-gebenden Vermögensschäden - die entstehenStand: 05/2017Gothaer GewerbeProtect Haftpflichtversicherung für betriebliche oder berufliche Risikenfür Handel, Gewerbe, Handwerk (ohne Bauhauptgewerbe und ohne Kfz-Handel und Werkstätten)Seite 20
+-1:9.624307228058543e-05		0:0.0026519518361192767		1:0.9972518050916002
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9950511648247756, 0.9853916952383811, 0.9889408824509993, 0.992651357954752, 0.99448356276133, 0.9947883203198786, 0.983498758635532, 0.990991460917857, 0.9935110843182492, 0.9949040288025686, 0.9974374623184523, 0.9957394637629835, 0.9885966039458803, 0, 0.9893424414282503, 0.9926734668458641, 0.995382057205094, 0, 0.9865063344514234, 0.9921041778427008, 0.9930145273869189, 0.9993404623359446, 0.9894728361264156, 0.9934420319439953, 0.9836556636455516, 0, 0.9944228492394402, 0.9837969786266346, 0.972758733052562, 0.9914405484806912, 0, 0, 0, 0.9938336398213515]
+------------------------------------------
+11.34 Tätigkeitsschäden (auch Leitungsschäden und Be-/ Entladeschäden)
+11.34.1 Versichert ist - abweichend von Abschnitt I § 7 Ziffer 7.7 - die gesetzliche Haftpflicht we-gen Schäden an fremden Sachen und alle sich daraus ergebenden Vermögensschäden,wenn diese Schäden-durch eine betriebliche oder berufliche Tätigkeit des Versicherungsnehmers an die-sen Sachen entstanden sind.dadurch entstanden sind, dass der Versicherungsnehmer die Sachen zur Durchfüh-rung seiner betrieblichen oder beruflichen Tätigkeiten benutzt hat.durch eine betriebliche oder berufliche Tätigkeit des Versicherungsnehmers entstan-den sind und sich diese Sachen oder deren Teile im unmittelbaren Einwirkungsbe-reich der Tätigkeit befunden haben.--Die Regelungen des Abschnitts I § 1 Ziffer 1.2 und § 7 Ziffer 7.8 bleiben bestehen.Stand: 05/2017Gothaer GewerbeProtect Haftpflichtversicherung für betriebliche oder berufliche Risikenfür Handel, Gewerbe, Handwerk (ohne Bauhauptgewerbe und ohne Kfz-Handel und Werkstätten)Seite 22
+-1:9.624307228058543e-05		0:0.0026519518361192767		1:0.9972518050916002
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9981064577063582, 0.9907638502949168, 0.9935667882844359, 0.99652175615049, 0.9976789812346302, 0.9978943020531282, 0.9892217310840498, 0.9953584777137671, 0.9971487001113818, 0.9979884442973834, 0.9994100799639247, 0.9985273912760467, 0.9935548028138168, 0, 0.9940690479820277, 0.9962197197382301, 0.9983504121804629, 0, 0.9919407999769349, 0.9959194401857501, 0.9966217040076056, 0.9999000739792054, 0.9942421834085097, 0.997105860968305, 0.9895961540303331, 0, 0.9976997617367416, 0.989169196828375, 0.9803492099668268, 0.9957021893622022, 0, 0, 0, 0.9972900421918613]
+------------------------------------------
+11.36 Vermögensschäden
+11.36.1 DatenschutzVersichert ist die gesetzliche Haftpflicht wegen Vermögensschäden im Sinne des Ab-schnitts I § 2 Ziffer 2.1 wegen Versicherungsfällen, die während der Wirksamkeit der Ver-sicherung eingetreten sind, aus der Verletzung von Datenschutzgesetzen durch Verwen-dung personenbezogener Daten.
+-1:0.04866537889262261		0:0.8335540295094742		1:0.11778059159790315
+
+ Most similar to: Bundesdatenschutzgesetzverletzung
+------------------------------------------
+
+
+ List: [0.9960826601317927, 0.9998798948522968, 0.999398220717654, 0.9977297470271146, 0.9966668409470016, 0.9963991958908298, 1.0, 0.9983679675895983, 0.9967650166958559, 0.9961843075695225, 0.9929543070648151, 0.9955764699564295, 0.999125982453317, 0, 0.9991073085950473, 0.9979868741513637, 0.9954542067097397, 0, 0.9994684374251808, 0.9983080875928836, 0.9976126902583744, 0.9879355325703258, 0.9988285992093819, 0.9970237361568812, 0.9998145366150865, 0, 0.9964126291489576, 0.999721233239419, 0.9985513544622291, 0.9981457633844943, 0, 0, 0, 0.9971164280666047]
+------------------------------------------
+11.36.2 Sonstige Vermögensschäden
+11.36.2.1 Versichert ist die gesetzliche Haftpflicht wegen Vermögensschäden im Sinnedes Abschnitts I § 2 Ziffer 2.1 aus Versicherungsfällen, die während derWirksamkeit der Versicherung eingetreten sind.a)b)c)d)e)f)
+-1:9.513864617599899e-05		0:0.04091982853646199		1:0.958985032817362
+
+ Most similar to: Mietsachschäden an betrieblich genutzten Räumen durch Brand / Explosion
+------------------------------------------
+
+
+ List: [0.9976503463816072, 0.9996480536389047, 0.9997526015353647, 0.9986646945574307, 0.9981436663950966, 0.9979312869979822, 0.9995011480411321, 0.9989082923584204, 0.9978951653787835, 0.9977580575560437, 0.9954132262257923, 0.9973334394425645, 0.9991768628776992, 0, 0.9993627640496504, 0.9992090801220697, 0.9971199280798886, 0, 0.9991470245592364, 0.9992847765382253, 0.9988147079776981, 0.9914214644223427, 0.9990552890908706, 0.9981217725843827, 0.9990979248526342, 0, 0.9978346792648736, 0.9995116197149044, 0.9965220465060304, 0.9987757068750394, 0, 0, 0, 0.9983785846815102]
+------------------------------------------
+
+======Category: Nachbesserungsbegleitschäden ==============
+
+§ 9
+Deckungssummen/SublimiteEs gelten die im Versicherungsschein genannten Deckungssummen und Höchstersatzleistungen für alleVersicherungsfälle einer Versicherungsperiode.Innerhalb der vereinbarten Deckungssummen gelten nachstehende Sublimite:----Abhandenkommen von Schlüsseln und Codekarten, für Folgeschäden (Abschnitt II § 11 Zif-fer 11.1) 300.000 Euro;Ansprüche aus Benachteiligungen (Abschnitt II § 11 Ziffer 11.4) 300.000 Euro;Bewachte Sachen (Abschnitt II § 11 Ziffer 11.14) Schäden durch Abhandenkommen be-wachter Sachen 300.000 Euro;Erstellen von Energieausweisen / Energieberatung (Abschnitt II § 11 Ziffer 11.17) 300.000Euro;Stand: 05/2017Gothaer GewerbeProtect Haftpflichtversicherung für betriebliche oder berufliche Risikenfür Handel, Gewerbe, Handwerk (ohne Bauhauptgewerbe und ohne Kfz-Handel und Werkstätten)Seite 14Page 32</a>-Mietsachschäden an Staplern und Arbeitsmaschinen (Abschnitt II § 11 Ziffer 11.27.1.4)300.000 Euro;Nachbesserungsbegleitschäden (Abschnitt II § 11 Ziffer 11.28) 300.000 Euro;Vermögensschäden (Abschnitt II § 11 Ziffer 11.36.2.2 - 11.36.2.10) 300.000 Euro;--- Wasseranalyse (Abschnitt II § 11 Ziffer 11.39.) 300.000 Euro;---Aufwendungen vor Eintritt des Versicherungsfalles (Abschnitt III § 4) 1.000.000 Euro;Aufwendungen vor Eintritt des Versicherungsfalles (Abschnitt IV § 7) 1.000.000 Euro;Sanierung von Umweltschäden (USV) auf eigenen Grundstücken, in eigenen Gewässernund am Grundwasser (Abschnitt IV § 2 Ziffern 2.2.7 und 2.2.8) 1.000.000 Euro.Die Höchstersatzleistung der vorgenannten Sublimite für alle Versicherungsfälle einer Versicherungsperi-ode beträgt das Doppelte.
+-1:4.944236388346708e-06		0:6.498161281825196e-05		1:0.9999300741507934
+
+ Most similar to: Bedingungsupdate
+------------------------------------------
+
+
+ List: [0.9921960028692964, 0.9801021785268375, 0.9843216941855907, 0.9891580670831364, 0.9913668245171686, 0.9917846739248863, 0.9778188370254951, 0.98717597689317, 0.9904998247355318, 0.9920175498238432, 0.9954893967708526, 0.9929783583271553, 0.9842327894333701, 0, 0.9850474131669897, 0.9888114690525269, 0.9927803495959021, 0, 0.9817388547002517, 0.9881869061240897, 0.9894522648380903, 0.9984006451956842, 0.9853531745321162, 0.9902865233297445, 0.9783083231435046, 0, 0.9914904346427571, 0.9780006233354938, 0.965628371023083, 0.9877682028072668, 0, 0, 0, 0.9905681687167209]
+------------------------------------------
+11.25 Mangelbeseitigungsnebenkosten
+Versichert sind Haftpflichtansprüche wegen Sachschäden, die als Folge eines mangelhaften Wer-kes auftreten und erfasst insoweit auch die Kosten, die erforderlich sind, um die mangelhafteWerkleistung zum Zwecke der Schadenbeseitigung zugänglich zu machen und um den vorheri-gen Zustand wieder herzustellen.Nicht gedeckt sind diese Kosten, wenn sie nur zur Nachbesserung aufgewendet werden, ohnedass ein Folgeschaden eingetreten ist. Ferner sind in jedem Fall nicht gedeckt die Kosten desVersicherungsnehmers für die Beseitigung des Mangels an der Werkleistung selbst.
+-1:0.0005850946711405901		0:0.099208725852735		1:0.9002061794761245
+
+ Most similar to: Sachschäden an geliehenen / gemieteten Arbeitsmaschinen
+------------------------------------------
+
+
+ List: [0.9992346156062377, 0.9991778247661921, 0.9997707825103659, 0.9998318972943536, 0.9994635907534556, 0.999395128652509, 0.9986331775188034, 0.9999414448369314, 0.9995737235352244, 0.999314587056147, 0.9976237113897375, 0.9989605131945974, 0.9997663038049528, 0, 0.9999064959754799, 0.9996796834086803, 0.9990030460036771, 0, 0.999456591096949, 0.9998168014780933, 0.9997560372918541, 0.9943204919019474, 0.9999051104871096, 0.9996486108937229, 0.9988586578931076, 0, 0.9994411205450592, 0.9983428429483684, 0.9947453234366109, 0.9999150813311805, 0, 0, 0, 0.9996639856063699]
+------------------------------------------
+11.28 Nachbesserungsbegleitschäden
+Versichert sind - ohne dass ein weitergehender Schaden eingetreten ist und insoweit teilweise ab-weichend von Abschnitt I § 1 Ziffer 1.2 - gesetzliche Ansprüche Dritter wegen Kosten, die daraufzurückzuführen sind, dass zur Durchführbarkeit von gesetzlich geschuldeten Nachbesserungsar-beiten die mangelhafte Werkleistung zugänglich gemacht werden muss. Der Versicherungs-schutz umfasst auch die ggf. erforderlichen Suchkosten. Als Versicherungsfall im Sinne dieserBestimmungen gilt der Zeitpunkt, in dem die Werkleistung, die später zu den Nachbesserungsar-beiten führt, abgeschlossen ist.Kein Versicherungsschutz besteht,-wenn die Sachen, die zur Durchführbarkeit der Nachbesserungsarbeiten beschädigt oder be-seitigt werden müssen, ursprünglich vom Versicherungsnehmer selbst (oder in seinem Auf-trag oder für seine Rechnung von Dritten) verlegt oder angebracht worden sind.für die Kosten der Beseitigung des Mangels der Werkleistung selbst.für die Kosten der Nach- und Neulieferung mangelfreier Produkte.für Folgeschäden wie z.B. Betriebsunterbrechung, Produktionsausfall, Mietausfall.---
+-1:0.00013425593982941937		0:0.012830476443725035		1:0.9870352676164454
+
+ Most similar to: Nachbesserungsbegleitschäden
+------------------------------------------
+
+
+ List: [0.999950882705032, 0.997517337551199, 0.9988275554999931, 0.9998628775422681, 0.9999409162004641, 0.9999764867143247, 0.9966528834760784, 0.9995789455795623, 0.9999084637597693, 0.9999558157587797, 0.9992574439519654, 0.9998924561452123, 0.9988970434492263, 0, 0.9991238877881561, 0.999603389611268, 0.9998901562594316, 0, 0.9981725482621278, 0.9996235218975749, 0.9997847451592485, 0.9971571418600281, 0.9991945632713339, 0.9999378440462869, 0.9969926373681874, 0, 0.9999592909923903, 0.996412789225676, 0.9912141655878276, 0.9996672510741105, 0, 0, 0, 0.9999804887024325]
+------------------------------------------

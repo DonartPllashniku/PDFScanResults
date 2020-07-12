@@ -1,0 +1,33 @@
+#tresults{
+width:100%; 
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+#tresults td h6, #tresults td p{
+  font-weight: bold;
+  color: black;
+}
+#tresults td, #tresults  th {
+  border-bottom: 2px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  width:50%;
+}
+
+#tresults th{
+text-align: center;
+}
+
+.cellJa{
+  background-color:lightgreen; 
+}
+.cellNein{
+  background-color: #ff8080;
+}
+.cellZero{
+  background-color: #fec400;
+}
+.cellNotFound{
+  background-color: #D2D7D3;
+}

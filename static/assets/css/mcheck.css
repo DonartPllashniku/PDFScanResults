@@ -1,0 +1,91 @@
+
+.row{
+    background-color: white;
+    margin-top: -30px;
+    padding-top: 30px;
+}
+#viewerContainer{
+    height: 100%;
+}
+
+#resultTable{
+    padding: 10px;
+}
+
+.mcheck-result{
+    border-radius: 0.25rem;
+    padding: .5rem 1.06rem;
+    font-size: 15px; 
+    margin-top: 2px; 
+    color: black;
+    background-color: white;
+}
+
+.details{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 0;
+    margin-top: -35px;
+    margin-right: 10px;
+}
+.details .fa-arrow-down{
+    position: relative;
+    font-size: larger;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+.res-hidden{
+    display: none;
+    background-color: white;
+    color: black;
+    font-size: 15px;
+    padding: 10px;
+}
+
+
+.paragraph-tools{
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.fa{
+    font-size: x-large;
+    cursor: pointer;
+    margin-right: 15px;
+}
+.fa-check{
+    color: #29cc97;
+    float: left;
+}
+.fa-times{
+    color: #fe5461;
+    float: left;
+}
+
+.fa-trash-o{
+    color: #fe5461;
+    float: right;
+}
+.fa-plus-circle{
+    color: #4c84FF;
+    float: right;
+}
+.fa-save{
+    color: #4c84FF;
+    float: right;
+    cursor: pointer;
+}
+.fa-star{
+    color: #fec400;
+    float: right;
+    cursor: pointer;
+}
+.fa.disable{
+    color:grey;
+    cursor: default;
+}
+

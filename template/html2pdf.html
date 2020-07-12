@@ -1,0 +1,60 @@
+<html>
+<head>
+<style>
+  #tresults{
+width:100%; 
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+#tresults td h6, #tresults td p{
+  font-weight: bold;
+  color: black;
+}
+#tresults td, #tresults  th {
+  border-bottom: 2px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  width:50%;
+}
+
+#tresults th{
+text-align: center;
+}
+
+.cellJa{
+  background-color:lightgreen; 
+}
+.cellNein{
+  background-color: #ff8080;
+}
+.cellZero{
+  background-color: #fec400;
+}
+.cellNotFound{
+  background-color: #D2D7D3;
+}
+</style>
+</head>
+  <body>
+      <h5 class="modal-title" id="exampleModalLongTitle" style="font-size: 15px;">{{ doc_name }}</h5>
+     <table id="tresults">
+      <tr>
+        <!-- DP -->
+        <th style="font-size: 12px;">Result</th>
+        <!-- <th style="font-size: 12px;">Ergebnisse</th> -->
+      </tr>
+      {% for res in results %}
+        {% load static %}
+      <tr>
+        <td>{{res.category_name}}</td>
+          {% if res.category_result == "Ja" %}<td class="cellJa"><p>{% if res.category_price == 0.00 %}{% else %}, {{res.category_price}} &euro;{% endif %}</p></td>
+          {% elif res.category_result == "Nein" %}<td class="cellNein"><p></p></td>
+          {% elif res.category_result == "Zero" %}<td class="cellZero"><p></p></td>
+          {% else %}<td class="cellNotFound"><p></p></td>{% endif %}
+      </tr>
+      {% endfor %}
+    </table>
+
+    </body>
+</html>

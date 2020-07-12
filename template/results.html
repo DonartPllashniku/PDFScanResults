@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+{% block content %}
+  		<div class="row">
+							<div class="col-12"> 
+                  <!-- Recent Order Table -->
+                  <div class="card card-table-border-none" id="recent-orders">
+                    <div class="card-header justify-content-between">
+                      <h2>Documents saved</h2>
+                      <div class="date-range-report ">
+                        <span></span>
+                      </div>
+                    </div>
+                    <div class="card-body pt-0 pb-5">
+                      <table class="table card-table table-responsive table-responsive-large" style="width:100%">
+                        <thead>
+                          <tr>
+                            <th>Type</th>
+                            <th>Doc Name</th>
+                            <th class="d-none d-md-table-cell">Size</th>
+                            <th class="d-none d-md-table-cell">Upload Date</th>
+                            <th></th>
+                            <th></th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                      {% for res in results %}
+                      {% load static %}
+                          <tr>
+                            <td ><div class="media-image mr-3 rounded-circle">
+                                <a href="profile.html"><img class="rounded-circle w-45" src="{% static 'img/pdfr.png' %}" alt="customer image"></a>
+                                </div></td>
+                            <td >
+                              <a class="text-dark" href="">{{res.category_name}}</a>
+                            </td>
+                            <td class="d-none d-md-table-cell">{{res.category_result}}</td>
+                              <td class="d-none d-md-table-cell">{{res.category_price}}</td>
+                              <td >
+                              <a href="{{doc.document.url}}"><button type="button" class="mb-1 btn btn-primary">Download</button></a>
+                              </td> <td >
+                              <a href="{{doc.document.url}}"><button type="button" class="mb-1 btn btn-danger">Delete</button></a>
+                            </td>
+                            <td class="text-right">
+                              <div class="dropdown show d-inline-block widget-dropdown">
+                                <a class="dropdown-toggle icon-burger-mini" href="" role="button" id="dropdown-recent-order1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-display="static"></a>
+                                <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdown-recent-order1">
+                                  <li class="dropdown-item">
+                                    <a href="#">View</a>
+                                  </li>
+                                  <li class="dropdown-item">
+                                    <a href="#">Remove</a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </td>
+                          </tr>
+                        {% endfor %}
+                        </tbody>
+                      </table>
+                    </div>
+                  </div>
+                </div>
+						</div>
+{% endblock %}
