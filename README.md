@@ -10,3 +10,4 @@ Install the following modules:
 4. scikit-learn
 5. xlrd
 6. xhtml2pdf
+7.PDFiD
